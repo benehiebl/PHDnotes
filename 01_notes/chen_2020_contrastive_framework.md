@@ -82,6 +82,8 @@ SimCLR demonstrates that self-supervised contrastive representation learning can
 - [[ResNet Deep Residual Learning]]
 - [[Self-Supervised Learning Visual Representations]]
 
+- **Source:** [[00_literature_md/chen_2020_contrastive_framework/chen_2020_contrastive_framework]]
+
 **Cross-paper links (same vault):**
 - [[01_notes/chabalala_2023_dl_s2_mediterranean_fruit_trees]] — SimCLR's self-supervised pretraining strategy is directly relevant to remote sensing contexts like Chabalala et al., where labelled training data for DNN classifiers is scarce; contrastive pretraining on unlabelled satellite imagery could bootstrap fruit tree classifiers
 - [[01_notes/bell_2024_hindcasting_forest_structure]] — both papers address the challenge of learning robust representations from limited or temporally inconsistent data; SimCLR's temporal augmentation perspective maps onto Bell et al.'s hindcasting of Landsat features across time

@@ -78,6 +78,8 @@ Fady et al. (2025) deliver the most comprehensive inventory of Mediterranean nat
 - [[01_notes/albrich_2019_climate_change_mountain_forests]]
 - [[Genetic Diversity Conservation Forest Trees]]
 
+- **Source:** [[00_literature_md/fady_2025_native_trees_mediterranean/fady_2025_native_trees_mediterranean]]
+
 **Cross-paper links (same vault):**
 - [[01_notes/albrich_2019_climate_change_mountain_forests]] — both papers deal with the vulnerability of European forest tree communities to climate change; Fady et al. document what biodiversity is at risk, Albrich et al. show how rapidly it can be lost
 - [[01_notes/amico_2025_nfi_italy]] — biodiversity monitoring (including tree species diversity) is an explicit innovation of the new Italian NFI; Fady et al. provide the taxonomic baseline that inventories like IFNI need

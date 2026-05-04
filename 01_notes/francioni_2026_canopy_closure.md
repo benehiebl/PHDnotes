@@ -90,6 +90,8 @@ Francioni et al. (2026) provide compelling evidence that European forests underg
 - [[albrich_2019_climate_change_mountain_forests]]
 - [[fady_2025_native_trees_mediterranean]]
 
+- **Source:** [[00_literature_md/francioni_2026_canopy_closure/francioni_2026_canopy_closure]]
+
 **Cross-paper links (same vault):**
 - [[albrich_2019_climate_change_mountain_forests]] — both papers address climate-driven reorganisation of forest ecosystems; Albrich et al. simulate large-scale compositional tipping points in Alpine forests at millennial scale, while Francioni et al. document the ground-level biodiversity consequences already unfolding over 25 years; the canopy closure dynamic Francioni et al. identify is directly related to the structural transitions Albrich et al. model
 - [[fady_2025_native_trees_mediterranean]] — Francioni et al.'s finding of stable Mediterranean understory diversity mirrors Fady et al.'s argument that Mediterranean tree communities show resilience; both papers highlight the Mediterranean biome as comparatively resistant to compositional disruption, though Fady et al. warn this could change

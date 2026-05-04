@@ -86,6 +86,8 @@ De Luca et al. (2022) demonstrate that integrating Sentinel-1 SAR time-series, I
 - [[Google Earth Engine Remote Sensing Workflow]]
 - [[BIOMASS P-band SAR Mission]]
 
+- **Source:** [[00_literature_md/deluca_2022_s1_s2_lulc_mapping/deluca_2022_s1_s2_lulc_mapping]]
+
 **Cross-paper links (same vault):**
 - [[chabalala_2023_dl_s2_mediterranean_fruit_trees]] — both papers rely on Sentinel-2 time-series with vegetation indices and ML classifiers for vegetation mapping; De Luca et al. add SAR fusion while Chabalala et al. use phenological metrics with DNN; complementary strategies for improving classification in spectrally heterogeneous landscapes
 - [[amico_2025_nfi_italy]] — De Luca et al.'s forest cover map is exactly the type of wall-to-wall remote sensing product that the enhanced Italian NFI uses as a complement to field inventory data; both papers are directly relevant to forest monitoring infrastructure

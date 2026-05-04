@@ -86,6 +86,8 @@ Fischer et al. (2025) deliver the most comprehensive harmonised ALS database eve
 - [[NEON National Ecological Observatory Network]]
 - [[iLand Forest Landscape Model]]
 
+- **Source:** [[00_literature_md/fischer_2025_glocal_canopy_atlas/fischer_2025_glocal_canopy_atlas]]
+
 **Cross-paper links (same vault):**
 - [[bell_2024_hindcasting_forest_structure]] — both papers address long-term forest structure monitoring from remote sensing; Bell et al. use Landsat + FIA for temporal mapping, Fischer et al. use ALS for 3D structure; the GCA's validation of global CHMs directly underpins the kind of Landsat-based forest attribute mapping Bell et al. perform
 - [[amico_2025_nfi_italy]] — the enhanced NFI concept (D'Amico et al.) is directly enabled by ALS-based wall-to-wall mapping; Fischer et al. provide the global ALS infrastructure that makes enhanced NFIs technically feasible at continental scale

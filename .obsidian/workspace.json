@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_notes/albrich_2019_climate_change_mountain_forests.md",
+                "file": "01_notes/bell_2024_hindcasting_forest_structure.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "albrich_2019_climate_change_mountain_forests"
+              "title": "bell_2024_hindcasting_forest_structure"
             }
           }
         ]
@@ -197,9 +197,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0fb24665b6286157",
+  "active": "6657c7196586ab5a",
   "lastOpenFiles": [
     "01_notes/amico_2025_nfi_italy.md",
+    "01_notes/brown_2025_alphaearth.md",
+    "01_notes/koch_2025_intraspecies_variation_s2.md",
+    "01_notes/albrich_2019_climate_change_mountain_forests.md",
+    "01_notes/brown_2025_alphaearth.md.tmp.86449.1777883800468",
+    "01_notes/koch_2025_intraspecies_variation_s2.md.tmp.86449.1777883560049",
     "01_notes/bell_2024_hindcasting_forest_structure.md",
     "01_notes/chabalala_2023_dl_s2_mediterranean_fruit_trees.md",
     "01_notes/chastain_2007_eve_landsat_understory.md",
@@ -208,7 +213,6 @@
     "01_notes/fady_2025_native_trees_mediterranean.md",
     "01_notes/fischer_2025_glocal_canopy_atlas.md",
     "01_notes/francioni_2026_canopy_closure.md",
-    "01_notes/albrich_2019_climate_change_mountain_forests.md",
     "02_concepts",
     "notes/files(1)/chen_2020_contrastive_framework.md",
     "notes/files(1)/chastain_2007_eve_landsat_understory.md",

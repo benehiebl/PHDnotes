@@ -73,6 +73,8 @@ The new Italian National Forest Inventory represents a significant modernisation
 - [[Wall-to-Wall Forest Biomass Mapping Italy]]
 - [[Tessellation Stratified Sampling for NFI]]
 
+- **Source:** [[00_literature_md/amico_2025_nfi_italy/amico_2025_nfi_italy]]
+
 **Cross-paper links (same vault):**
 - [[01_notes/bell_2024_hindcasting_forest_structure]] — closely related: both address long-term forest attribute mapping combining inventory data with remote sensing; NFI updating is central to Bell et al.
 - [[01_notes/albrich_2019_climate_change_mountain_forests]] — climate change disturbance is the key driver for modernising NFIs; Albrich et al. quantify the kind of rapid forest change that annual NFIs need to detect

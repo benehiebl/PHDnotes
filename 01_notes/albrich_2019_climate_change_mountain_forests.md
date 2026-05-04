@@ -76,6 +76,8 @@ Albrich et al. (2019) demonstrate that even moderate warming — at or slightly 
 - [[Alternative Stable States Ecology]]
 - [[01_notes/albrich_2019_climate_change_mountain_forests]]
 
+- **Source:** [[00_literature_md/albrich_2019_climate_change_mountain_forests/albrich_2019_climate_change_mountain_forests]]
+
 **Cross-paper links (same vault):**
 - [[01_notes/amico_2025_nfi_italy]] — climate-driven disturbance and rapid forest change are the rationale behind modernising NFIs; Albrich et al. quantify what those changes look like mechanistically
 - [[01_notes/fady_2025_native_trees_mediterranean]] — both papers address climate change impacts on European forest trees; habitat heterogeneity as buffer parallels the topographic complexity argument in Albrich et al.

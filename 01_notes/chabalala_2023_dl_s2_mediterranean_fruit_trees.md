@@ -68,6 +68,8 @@ This paper presents a targeted remote-sensing approach to fruit tree mapping in 
 - [[Deep Neural Networks for Land Cover Classification]]
 - [[Smallholder Agriculture Remote Sensing]]
 
+- **Source:** [[00_literature_md/chabalala_2023_dl_s2_mediterranean_fruit_trees/chabalala_2023_dl_s2_mediterranean_fruit_trees]]
+
 **Cross-paper links (same vault):**
 - [[01_notes/amico_2025_nfi_italy]] — both papers use Sentinel-2 for forest/vegetation monitoring; NFI paper discusses wall-to-wall remote sensing mapping
 - [[01_notes/bell_2024_hindcasting_forest_structure]] — related use of remote sensing for vegetation attribute mapping, temporal consistency of models

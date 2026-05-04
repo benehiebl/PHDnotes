@@ -72,6 +72,8 @@ Chastain and Townsend (2007) demonstrate that Landsat ETM+ leaf-off imagery, com
 - [[01_notes/chabalala_2023_dl_s2_mediterranean_fruit_trees]]
 - [[01_notes/bell_2024_hindcasting_forest_structure]]
 
+- **Source:** [[00_literature_md/chastain_2007_eve_landsat_understory/chastain_2007_eve_landsat_understory]]
+
 **Cross-paper links (same vault):**
 - [[01_notes/chabalala_2023_dl_s2_mediterranean_fruit_trees]] — both papers use multitemporal multispectral imagery with topographic/phenological ancillary data to classify vegetation communities beneath or within complex canopy structures; different sensors (Landsat vs Sentinel-2) and classifiers (ML/DT vs DNN)
 - [[01_notes/bell_2024_hindcasting_forest_structure]] — both work with Landsat in forested landscapes; Bell et al. use nearest-neighbor imputation for forest structure, Chastain & Townsend use supervised classification for understory composition; complementary Landsat-based approaches
