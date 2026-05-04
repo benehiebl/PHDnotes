@@ -28,10 +28,11 @@ keywords:
   - IFNI
 status: unread
 ---
+.--
 
 ## Title and Authors of the Paper
 
-*National Forest Inventory in Italy: new perspectives for forest monitoring* — D'Amico, Chirici, Campetella et al. (2025), Opinion Paper, Open Access. Published online October 2025, affiliated with geoLAB – University of Florence and CREA Research Centre for Forestry and Wood.
+*National Forest Inventory in Italy: new perspectives for forest monitoring* — D'Amico, Chirici, Campetella et al. (2025), Opinion Paper, Open Access. <mark style="background:#40a9ff">Published</mark> online October 2025, affiliated with geoLAB – University of Florence and CREA Research Centre for Forestry and Wood.
 
 ## Quick Overview
 

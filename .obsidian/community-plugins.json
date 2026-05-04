@@ -3,5 +3,9 @@
   "table-editor-obsidian",
   "dataview",
   "obsidian-tasks-plugin",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-mind-map",
+  "excalibrain",
+  "obsidian-excalidraw-plugin",
+  "editing-toolbar"
 ]
