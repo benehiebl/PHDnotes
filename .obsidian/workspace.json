@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "e4ef8d5d6a646ac1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3967d36eb7d36ff3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6657c7196586ab5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_notes/albrich_2019_climate_change_mountain_forests.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "albrich_2019_climate_change_mountain_forests"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53d9f40a0adfc78f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e4bbfc11ca20b01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fb24665b6286157",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4e64fec76410e364",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "157a5ef3d54f6656",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b62de5cc65d08ef0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fc1399ae9529785",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5120ad682167399",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01_notes/albrich_2019_climate_change_mountain_forests.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for albrich_2019_climate_change_mountain_forests"
+            }
+          },
+          {
+            "id": "276a1c3620a2f46c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01_notes/albrich_2019_climate_change_mountain_forests.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from albrich_2019_climate_change_mountain_forests"
+            }
+          },
+          {
+            "id": "4c8d29625b3f1053",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "37028127ad84a536",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c0d37cf4b8496af8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01_notes/albrich_2019_climate_change_mountain_forests.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of albrich_2019_climate_change_mountain_forests"
+            }
+          },
+          {
+            "id": "fe52a1cfe052b305",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "0fb24665b6286157",
+  "lastOpenFiles": [
+    "01_notes/amico_2025_nfi_italy.md",
+    "01_notes/bell_2024_hindcasting_forest_structure.md",
+    "01_notes/chabalala_2023_dl_s2_mediterranean_fruit_trees.md",
+    "01_notes/chastain_2007_eve_landsat_understory.md",
+    "01_notes/chen_2020_contrastive_framework.md",
+    "01_notes/deluca_2022_s1_s2_lulc_mapping.md",
+    "01_notes/fady_2025_native_trees_mediterranean.md",
+    "01_notes/fischer_2025_glocal_canopy_atlas.md",
+    "01_notes/francioni_2026_canopy_closure.md",
+    "01_notes/albrich_2019_climate_change_mountain_forests.md",
+    "02_concepts",
+    "notes/files(1)/chen_2020_contrastive_framework.md",
+    "notes/files(1)/chastain_2007_eve_landsat_understory.md",
+    "notes/files(1)",
+    "LandTrendr Landsat Time Series.md",
+    "IUCN Red List of Trees.md"
+  ]
+}
