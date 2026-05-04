@@ -7,7 +7,6 @@ authors:
 year: 2019
 source: 01_notes/albrich_2019_climate_change_mountain_forests|albrich_2019_climate_change_mountain_forests
 tags:
-  - paper
   - forest-ecology
   - climate-change
   - forest-simulation

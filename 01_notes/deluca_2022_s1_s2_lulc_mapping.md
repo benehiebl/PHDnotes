@@ -1,14 +1,14 @@
 ---
-title: "Integrated use of Sentinel-1 and Sentinel-2 data and open-source machine learning algorithms for land cover mapping in a Mediterranean region"
+title: Integrated use of Sentinel-1 and Sentinel-2 data and open-source machine learning algorithms for land cover mapping in a Mediterranean region
 authors:
-  - "De Luca, Giandomenico"
-  - "Silva, João M. N."
-  - "Di Fazio, Salvatore"
-  - "Modica, Giuseppe"
+  - De Luca, Giandomenico
+  - Silva, João M. N.
+  - Di Fazio, Salvatore
+  - Modica, Giuseppe
 year: 2022
 tags:
-  - paper
   - remote-sensing
+  - machine-learning
   - land-cover-classification
   - SAR
   - forest-ecology

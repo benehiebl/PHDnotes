@@ -1,13 +1,13 @@
 ---
-title: "Hindcasting and updating Landsat-based forest structure mapping across years to support forest management and planning"
+title: Hindcasting and updating Landsat-based forest structure mapping across years to support forest management and planning
 authors:
-  - "Bell, David M."
-  - "Gregory, Matthew J."
-  - "Yang, Zhiqiang"
+  - Bell, David M.
+  - Gregory, Matthew J.
+  - Yang, Zhiqiang
 year: 2024
 tags:
-  - paper
   - remote-sensing
+  - machine-learning
   - forest-inventory
   - forest-mapping
 keywords:

@@ -1,12 +1,12 @@
 ---
-title: "Mapping fruit tree dynamics using phenological metrics from optimal Sentinel-2 data and Deep Neural Network"
+title: Mapping fruit tree dynamics using phenological metrics from optimal Sentinel-2 data and Deep Neural Network
 authors:
-  - "Chabalala, Y."
-  - "Adam, E."
-  - "Odindi, J."
+  - Chabalala, Y.
+  - Adam, E.
+  - Odindi, J.
 year: 2023
 tags:
-  - paper
+  - machine-learning
   - remote-sensing
   - deep-learning
   - land-cover-classification

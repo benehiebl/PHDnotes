@@ -1,14 +1,14 @@
 ---
-title: "A Simple Framework for Contrastive Learning of Visual Representations"
+title: A Simple Framework for Contrastive Learning of Visual Representations
 authors:
-  - "Chen, Ting"
-  - "Kornblith, Simon"
-  - "Norouzi, Mohammad"
-  - "Hinton, Geoffrey"
+  - Chen, Ting
+  - Kornblith, Simon
+  - Norouzi, Mohammad
+  - Hinton, Geoffrey
 year: 2020
 tags:
-  - paper
   - machine-learning
+  - deep-learning
   - self-supervised-learning
   - computer-vision
 keywords:

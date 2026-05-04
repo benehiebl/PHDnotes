@@ -1,14 +1,14 @@
 ---
-title: "Use of Landsat ETM and Topographic Data to Characterize Evergreen Understory Communities in Appalachian Deciduous Forests"
+title: Use of Landsat ETM and Topographic Data to Characterize Evergreen Understory Communities in Appalachian Deciduous Forests
 authors:
-  - "Chastain, Robert A. Jr."
-  - "Townsend, Philip A."
+  - Chastain, Robert A. Jr.
+  - Townsend, Philip A.
 year: 2007
 tags:
-  - paper
   - remote-sensing
   - forest-ecology
   - land-cover-classification
+  - "#machine-learning"
 keywords:
   - landsat-ETM
   - evergreen-understory

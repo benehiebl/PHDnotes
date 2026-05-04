@@ -1,17 +1,17 @@
 ---
 title: "Native Trees of the Mediterranean Region: Distribution, Diversity and Conservation Challenges"
 authors:
-  - "Fady, Bruno"
-  - "Farsakoglou, Anna-Maria"
-  - "Caron, Mercedes"
-  - "Médail, Frédéric"
-  - "Bou Dagher Karrat, Magda"
+  - Fady, Bruno
+  - Farsakoglou, Anna-Maria
+  - Caron, Mercedes
+  - Médail, Frédéric
+  - Bou Dagher Karrat, Magda
 year: 2025
 tags:
-  - paper
   - forest-ecology
   - biodiversity
   - conservation
+  - mediterranean
 keywords:
   - mediterranean-trees
   - native-tree-diversity

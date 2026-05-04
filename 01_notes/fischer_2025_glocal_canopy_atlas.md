@@ -10,7 +10,6 @@ authors:
   - "Jucker, Tommaso"
 year: 2025
 tags:
-  - paper
   - remote-sensing
   - forest-ecology
   - forest-structure

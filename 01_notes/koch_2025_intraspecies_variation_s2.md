@@ -11,7 +11,6 @@ authors:
   - "Waser, Lars T."
 year: 2025
 tags:
-  - paper
   - remote-sensing
   - forest-ecology
   - phenology

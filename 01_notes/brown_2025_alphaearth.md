@@ -1,27 +1,26 @@
 ---
 title: "AlphaEarth Foundations: An Embedding Field Model for Accurate and Efficient Global Mapping from Sparse Label Data"
 authors:
-  - "Brown, Christopher F."
-  - "Kazmierski, Michal R."
-  - "Pasquarella, Valerie J."
-  - "Rucklidge, William J."
-  - "Samsikova, Masha"
-  - "Zhang, Chenhui"
-  - "Shelhamer, Evan"
-  - "Lahera, Estefania"
-  - "Wiles, Olivia"
-  - "Ilyushchenko, Simon"
-  - "Gorelick, Noel"
-  - "Boukouvalas, Alexis"
-  - "Kohli, Pushmeet"
+  - Brown, Christopher F.
+  - Kazmierski, Michal R.
+  - Pasquarella, Valerie J.
+  - Rucklidge, William J.
+  - Samsikova, Masha
+  - Zhang, Chenhui
+  - Shelhamer, Evan
+  - Lahera, Estefania
+  - Wiles, Olivia
+  - Ilyushchenko, Simon
+  - Gorelick, Noel
+  - Boukouvalas, Alexis
+  - Kohli, Pushmeet
 year: 2025
 tags:
-  - paper
+  - machine-learning
+  - deep-learning
   - remote-sensing
   - foundation-model
-  - deep-learning
   - geospatial-AI
-  - earth-observation
 keywords:
   - embedding-fields
   - geospatial-foundation-model

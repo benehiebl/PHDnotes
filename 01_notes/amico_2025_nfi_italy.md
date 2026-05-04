@@ -1,18 +1,18 @@
 ---
 title: "National Forest Inventory in Italy: new perspectives for forest monitoring"
 authors:
-  - "D'Amico, Giovanni"
-  - "Chirici, Gherardo"
-  - "Campetella, Giandiego"
-  - "Fattorini, Lorenzo"
-  - "Floris, Antonio"
-  - "Francini, Saverio"
-  - "Giannetti, Francesca"
-  - "Corona, Piermaria"
+  - D'Amico, Giovanni
+  - Chirici, Gherardo
+  - Campetella, Giandiego
+  - Fattorini, Lorenzo
+  - Floris, Antonio
+  - Francini, Saverio
+  - Giannetti, Francesca
+  - Corona, Piermaria
 year: 2025
 tags:
-  - paper
   - forest-inventory
+  - forest-ecology
   - remote-sensing
   - forest-monitoring
 keywords:

@@ -9,7 +9,6 @@ authors:
   - "Chelli, Stefano"
 year: 2026
 tags:
-  - paper
   - forest-ecology
   - biodiversity
   - long-term-monitoring
