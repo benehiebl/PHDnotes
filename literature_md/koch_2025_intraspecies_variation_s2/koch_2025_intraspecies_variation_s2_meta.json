@@ -1,0 +1,1044 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Assessing Intraspecific Variation of Tree Species Based on Sentinel-2 Vegetation Indices Across Space and Time",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.73730484124095,
+          113.95127535758014
+        ],
+        [
+          494.8138043382006,
+          113.95127535758014
+        ],
+        [
+          494.8138043382006,
+          152.09927022457123
+        ],
+        [
+          33.73730484124095,
+          152.09927022457123
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          164.9379347794002,
+          634.9784883412525
+        ],
+        [
+          248.1566200544612,
+          634.9784883412525
+        ],
+        [
+          248.1566200544612,
+          645.8052797913551
+        ],
+        [
+          164.9379347794002,
+          645.8052797913551
+        ]
+      ]
+    },
+    {
+      "title": "2. Materials and Methods",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          164.80541628599167,
+          404.82689929666634
+        ],
+        [
+          305.88489722725126,
+          404.82689929666634
+        ],
+        [
+          305.88489722725126,
+          414.572732057512
+        ],
+        [
+          164.80541628599167,
+          414.572732057512
+        ]
+      ]
+    },
+    {
+      "title": "2.1. Study Area",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          163.93342995643616,
+          422.8192059320737
+        ],
+        [
+          230.16339080579937,
+          422.8192059320737
+        ],
+        [
+          230.16339080579937,
+          432.0441432595253
+        ],
+        [
+          163.93342995643616,
+          432.0441432595253
+        ]
+      ]
+    },
+    {
+      "title": "2.2. Sentinel-2 Time Series Processing",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          164.9379347794002,
+          547.2659934936415
+        ],
+        [
+          320.1295370491086,
+          547.2659934936415
+        ],
+        [
+          320.1295370491086,
+          557.0121923089027
+        ],
+        [
+          164.9379347794002,
+          557.0121923089027
+        ]
+      ]
+    },
+    {
+      "title": "2.3. Tree Species References",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          164.1882168940393,
+          180.05264961719513
+        ],
+        [
+          277.3956175835367,
+          180.05264961719513
+        ],
+        [
+          277.3956175835367,
+          191.16825800120353
+        ],
+        [
+          164.1882168940393,
+          191.16825800120353
+        ]
+      ]
+    },
+    {
+      "title": "2.4. Tree Species-Specific Sentinel-2 Time Series",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          164.1882168940393,
+          373.2598307132721
+        ],
+        [
+          359.1148670878759,
+          373.2598307132721
+        ],
+        [
+          359.1148670878759,
+          383.835874888691
+        ],
+        [
+          164.1882168940393,
+          383.835874888691
+        ]
+      ]
+    },
+    {
+      "title": "2.5. Assessing Intraspecific Variation",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          164.9379347794002,
+          609.4893872744254
+        ],
+        [
+          317.1306655076649,
+          609.4893872744254
+        ],
+        [
+          317.1306655076649,
+          619.4962168335915
+        ],
+        [
+          164.9379347794002,
+          619.4962168335915
+        ]
+      ]
+    },
+    {
+      "title": "3. Results",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          164.9379347794002,
+          501.92759174108505
+        ],
+        [
+          219.66734041074662,
+          501.92759174108505
+        ],
+        [
+          219.66734041074662,
+          512.0310596659687
+        ],
+        [
+          164.9379347794002,
+          512.0310596659687
+        ]
+      ]
+    },
+    {
+      "title": "4. Discussion",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          163.93342995643616,
+          71.11668580770493
+        ],
+        [
+          239.9097233154912,
+          71.11668580770493
+        ],
+        [
+          239.9097233154912,
+          81.71505930247524
+        ],
+        [
+          163.93342995643616,
+          81.71505930247524
+        ]
+      ]
+    },
+    {
+      "title": "4.1. Spatial and Temporal Patterns of Intraspecific Variation",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          163.93342995643616,
+          89.61524569988251
+        ],
+        [
+          408.59624752169594,
+          89.61524569988251
+        ],
+        [
+          408.59624752169594,
+          99.70736593788263
+        ],
+        [
+          163.93342995643616,
+          99.70736593788263
+        ]
+      ]
+    },
+    {
+      "title": "4.2. Limitations and Challenges of Tree Species-Specific Satellite Remote Sensing Approaches",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          163.93342995643616,
+          515.0821232199669
+        ],
+        [
+          539.7968774598552,
+          515.0821232199669
+        ],
+        [
+          539.7968774598552,
+          524.7756101993823
+        ],
+        [
+          163.93342995643616,
+          524.7756101993823
+        ]
+      ]
+    },
+    {
+      "title": "4.3. Implications of Findings",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          164.224092066288,
+          695.9569310545921
+        ],
+        [
+          282.6436427810631,
+          695.9569310545921
+        ],
+        [
+          282.6436427810631,
+          705.4483559965981
+        ],
+        [
+          164.224092066288,
+          705.4483559965981
+        ]
+      ]
+    },
+    {
+      "title": "5. Conclusions",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          164.9379347794002,
+          570.9888820052147
+        ],
+        [
+          246.65718428373938,
+          570.9888820052147
+        ],
+        [
+          246.65718428373938,
+          581.7512478781723
+        ],
+        [
+          164.9379347794002,
+          581.7512478781723
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          34.48702272660186,
+          669.6478680968285
+        ],
+        [
+          95.21417144083557,
+          669.6478680968285
+        ],
+        [
+          95.21417144083557,
+          679.2095754866291
+        ],
+        [
+          34.48702272660186,
+          679.2095754866291
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          96
+        ],
+        [
+          "Span",
+          54
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          55
+        ],
+        [
+          "Span",
+          39
+        ],
+        [
+          "Text",
+          5
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          60
+        ],
+        [
+          "Span",
+          10
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          47
+        ],
+        [
+          "Span",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          58
+        ],
+        [
+          "Span",
+          14
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          45
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Span",
+          9
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          55
+        ],
+        [
+          "Span",
+          50
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          71
+        ],
+        [
+          "Span",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          52
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          5
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          39
+        ],
+        [
+          "Span",
+          3
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          93
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          49
+        ],
+        [
+          "Span",
+          3
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          58
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          58
+        ],
+        [
+          "Span",
+          9
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          57
+        ],
+        [
+          "Span",
+          32
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          57
+        ],
+        [
+          "Span",
+          7
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          66
+        ],
+        [
+          "Span",
+          37
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          124
+        ],
+        [
+          "Line",
+          89
+        ],
+        [
+          "ListItem",
+          23
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          136
+        ],
+        [
+          "Line",
+          97
+        ],
+        [
+          "ListItem",
+          26
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          139
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "ListItem",
+          21
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/koch_2025_intraspecies_variation_s2"
+}

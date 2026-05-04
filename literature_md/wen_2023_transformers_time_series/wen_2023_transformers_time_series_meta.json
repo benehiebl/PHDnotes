@@ -1,0 +1,1139 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Transformers in Time Series: A Survey",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          184.5,
+          88.55859375
+        ],
+        [
+          426.0,
+          88.55859375
+        ],
+        [
+          426.0,
+          101.70703125
+        ],
+        [
+          184.5,
+          101.70703125
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          152.25,
+          216.75
+        ],
+        [
+          198.75,
+          216.75
+        ],
+        [
+          198.75,
+          226.5
+        ],
+        [
+          152.25,
+          226.5
+        ]
+      ]
+    },
+    {
+      "title": "1 Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.7890625,
+          549.0
+        ],
+        [
+          137.25,
+          549.0
+        ],
+        [
+          137.25,
+          558.75
+        ],
+        [
+          53.7890625,
+          558.75
+        ]
+      ]
+    },
+    {
+      "title": "2 Preliminaries of the Transformer",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          54.38671875,
+          132.64453125
+        ],
+        [
+          241.5,
+          132.64453125
+        ],
+        [
+          241.5,
+          142.5
+        ],
+        [
+          54.38671875,
+          142.5
+        ]
+      ]
+    },
+    {
+      "title": "2.1 Vanilla Transformer",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          52.5,
+          149.66015625
+        ],
+        [
+          174.0,
+          149.66015625
+        ],
+        [
+          174.0,
+          159.0
+        ],
+        [
+          52.5,
+          159.0
+        ]
+      ]
+    },
+    {
+      "title": "2.2 Input Encoding and Positional Encoding",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          52.5,
+          259.48828125
+        ],
+        [
+          269.25,
+          259.48828125
+        ],
+        [
+          269.25,
+          269.54296875
+        ],
+        [
+          52.5,
+          269.54296875
+        ]
+      ]
+    },
+    {
+      "title": "Absolute Positional Encoding",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          52.5,
+          324.0
+        ],
+        [
+          180.0,
+          324.0
+        ],
+        [
+          180.0,
+          333.75
+        ],
+        [
+          52.5,
+          333.75
+        ]
+      ]
+    },
+    {
+      "title": "Relative Positional Encoding",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          52.5,
+          444.33984375
+        ],
+        [
+          177.0,
+          444.33984375
+        ],
+        [
+          177.0,
+          454.5
+        ],
+        [
+          52.5,
+          454.5
+        ]
+      ]
+    },
+    {
+      "title": "2.3 Multi-head Attention",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          52.5,
+          586.5
+        ],
+        [
+          178.5,
+          586.5
+        ],
+        [
+          178.5,
+          595.16015625
+        ],
+        [
+          52.5,
+          595.16015625
+        ]
+      ]
+    },
+    {
+      "title": "2.4 Feed-forward and Residual Network",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          313.5,
+          280.37109375
+        ],
+        [
+          510.0,
+          280.37109375
+        ],
+        [
+          510.0,
+          290.25
+        ],
+        [
+          313.5,
+          290.25
+        ]
+      ]
+    },
+    {
+      "title": "3 Taxonomy of Transformers in Time Series",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          313.171875,
+          459.421875
+        ],
+        [
+          549.0,
+          459.421875
+        ],
+        [
+          549.0,
+          469.5
+        ],
+        [
+          313.171875,
+          469.5
+        ]
+      ]
+    },
+    {
+      "title": "4 Network Modifications for Time Series",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          313.171875,
+          629.25
+        ],
+        [
+          531.75,
+          629.25
+        ],
+        [
+          531.75,
+          639.0
+        ],
+        [
+          313.171875,
+          639.0
+        ]
+      ]
+    },
+    {
+      "title": "4.1 Positional Encoding",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          313.5,
+          647.25
+        ],
+        [
+          433.5,
+          647.25
+        ],
+        [
+          433.5,
+          657.03515625
+        ],
+        [
+          313.5,
+          657.03515625
+        ]
+      ]
+    },
+    {
+      "title": "4.2 Attention Module",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          51.697265625,
+          437.765625
+        ],
+        [
+          162.0,
+          437.765625
+        ],
+        [
+          162.0,
+          448.5
+        ],
+        [
+          51.697265625,
+          448.5
+        ]
+      ]
+    },
+    {
+      "title": "4.3 Architecture-based Attention Innovation",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          313.5,
+          172.5
+        ],
+        [
+          530.25,
+          172.5
+        ],
+        [
+          530.25,
+          180.984375
+        ],
+        [
+          313.5,
+          180.984375
+        ]
+      ]
+    },
+    {
+      "title": "5 Applications of Time Series Transformers",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          314.3671875,
+          387.0
+        ],
+        [
+          546.75,
+          387.0
+        ],
+        [
+          546.75,
+          398.70703125
+        ],
+        [
+          314.3671875,
+          398.70703125
+        ]
+      ]
+    },
+    {
+      "title": "5.1 Transformers in Forecasting",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          313.171875,
+          446.25
+        ],
+        [
+          473.25,
+          446.25
+        ],
+        [
+          473.25,
+          455.94140625
+        ],
+        [
+          313.171875,
+          455.94140625
+        ]
+      ]
+    },
+    {
+      "title": "Time Series Forecasting",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          313.5,
+          501.75
+        ],
+        [
+          417.75,
+          501.75
+        ],
+        [
+          417.75,
+          511.62890625
+        ],
+        [
+          313.5,
+          511.62890625
+        ]
+      ]
+    },
+    {
+      "title": "Spatio-Temporal Forecasting",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          52.5,
+          258.328125
+        ],
+        [
+          179.25,
+          258.328125
+        ],
+        [
+          179.25,
+          267.75
+        ],
+        [
+          52.5,
+          267.75
+        ]
+      ]
+    },
+    {
+      "title": "Event Forecasting",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          52.5,
+          561.90234375
+        ],
+        [
+          132.0,
+          561.90234375
+        ],
+        [
+          132.0,
+          571.5
+        ],
+        [
+          52.5,
+          571.5
+        ]
+      ]
+    },
+    {
+      "title": "5.2 Transformers in Anomaly Detection",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          311.9765625,
+          162.80859375
+        ],
+        [
+          507.75,
+          162.80859375
+        ],
+        [
+          507.75,
+          172.86328125
+        ],
+        [
+          311.9765625,
+          172.86328125
+        ]
+      ]
+    },
+    {
+      "title": "5.3 Transformers in Classification",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          52.5,
+          119.8828125
+        ],
+        [
+          219.75,
+          119.8828125
+        ],
+        [
+          219.75,
+          129.75
+        ],
+        [
+          52.5,
+          129.75
+        ]
+      ]
+    },
+    {
+      "title": "6 Experimental Evaluation and Discussion",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          53.19140625,
+          469.08984375
+        ],
+        [
+          280.5,
+          469.08984375
+        ],
+        [
+          280.5,
+          479.25
+        ],
+        [
+          53.19140625,
+          479.25
+        ]
+      ]
+    },
+    {
+      "title": "Robustness Analysis",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          52.5,
+          580.46484375
+        ],
+        [
+          141.75,
+          580.46484375
+        ],
+        [
+          141.75,
+          590.25
+        ],
+        [
+          52.5,
+          590.25
+        ]
+      ]
+    },
+    {
+      "title": "Model Size Analysis",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          312.873046875,
+          289.65234375
+        ],
+        [
+          401.25,
+          289.65234375
+        ],
+        [
+          401.25,
+          299.25
+        ],
+        [
+          312.873046875,
+          300.75
+        ]
+      ]
+    },
+    {
+      "title": "Seasonal-Trend Decomposition Analysis",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          313.5,
+          475.27734375
+        ],
+        [
+          486.0,
+          475.27734375
+        ],
+        [
+          486.0,
+          483.78515625
+        ],
+        [
+          313.5,
+          483.78515625
+        ]
+      ]
+    },
+    {
+      "title": "7 Future Research Opportunities",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          314.96484375,
+          666.0
+        ],
+        [
+          493.5,
+          666.0
+        ],
+        [
+          493.5,
+          676.5
+        ],
+        [
+          314.96484375,
+          676.5
+        ]
+      ]
+    },
+    {
+      "title": "7.1 Inductive Biases for Time Series Transformers",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          52.5,
+          156.62109375
+        ],
+        [
+          295.5,
+          156.62109375
+        ],
+        [
+          295.5,
+          166.5
+        ],
+        [
+          52.5,
+          166.5
+        ]
+      ]
+    },
+    {
+      "title": "7.2 Transformers and GNN for Time Series",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          52.5,
+          441.0
+        ],
+        [
+          264.75,
+          441.0
+        ],
+        [
+          264.75,
+          450.0
+        ],
+        [
+          52.5,
+          450.0
+        ]
+      ]
+    },
+    {
+      "title": "7.3 Pre-trained Transformers for Time Series",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          52.5,
+          623.77734375
+        ],
+        [
+          273.75,
+          623.77734375
+        ],
+        [
+          273.75,
+          634.5
+        ],
+        [
+          52.5,
+          634.5
+        ]
+      ]
+    },
+    {
+      "title": "7.4 Transformers with Architecture Level Variants",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          312.57421875,
+          198.0
+        ],
+        [
+          558.75,
+          198.38671875
+        ],
+        [
+          558.75,
+          208.5
+        ],
+        [
+          312.57421875,
+          207.0
+        ]
+      ]
+    },
+    {
+      "title": "7.5 Transformers with NAS for Time Series",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          313.171875,
+          342.24609375
+        ],
+        [
+          525.75,
+          342.24609375
+        ],
+        [
+          525.75,
+          351.75
+        ],
+        [
+          313.171875,
+          351.75
+        ]
+      ]
+    },
+    {
+      "title": "8 Conclusion",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          313.76953125,
+          521.68359375
+        ],
+        [
+          390.75,
+          521.68359375
+        ],
+        [
+          390.75,
+          531.75
+        ],
+        [
+          313.76953125,
+          531.75
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          313.470703125,
+          614.49609375
+        ],
+        [
+          371.25,
+          614.49609375
+        ],
+        [
+          371.25,
+          624.0
+        ],
+        [
+          313.470703125,
+          624.0
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          100
+        ],
+        [
+          "Span",
+          79
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          146
+        ],
+        [
+          "Span",
+          67
+        ],
+        [
+          "Text",
+          17
+        ],
+        [
+          "SectionHeader",
+          10
+        ],
+        [
+          "Equation",
+          5
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          128
+        ],
+        [
+          "Span",
+          77
+        ],
+        [
+          "TableCell",
+          39
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          125
+        ],
+        [
+          "Span",
+          82
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          131
+        ],
+        [
+          "Span",
+          61
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          117
+        ],
+        [
+          "TableCell",
+          82
+        ],
+        [
+          "Span",
+          51
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          113
+        ],
+        [
+          "Span",
+          60
+        ],
+        [
+          "TableCell",
+          32
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          195
+        ],
+        [
+          "Span",
+          134
+        ],
+        [
+          "ListItem",
+          36
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          191
+        ],
+        [
+          "Span",
+          130
+        ],
+        [
+          "ListItem",
+          38
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/wen_2023_transformers_time_series"
+}

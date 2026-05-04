@@ -1,0 +1,448 @@
+{
+  "table_of_contents": [
+    {
+      "title": "La Carta Forestale d'Italia (CFI2020): un ritratto aggiornato dei boschi italiani",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.48666281904322,
+          120.69834659403175
+        ],
+        [
+          535.3236528295714,
+          120.69834659403175
+        ],
+        [
+          535.3236528295714,
+          152.93455096386631
+        ],
+        [
+          40.48666281904322,
+          152.93455096386631
+        ]
+      ]
+    },
+    {
+      "title": "Introduzione",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.48666281904322,
+          432.5648818928964
+        ],
+        [
+          104.21566910827791,
+          432.5648818928964
+        ],
+        [
+          104.21566910827791,
+          441.90988168120384
+        ],
+        [
+          40.48666281904322,
+          441.90988168120384
+        ]
+      ]
+    },
+    {
+      "title": "Materiali e metodi",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          41.23641583421068,
+          349.35049386843974
+        ],
+        [
+          130.45702463913926,
+          349.35049386843974
+        ],
+        [
+          130.45702463913926,
+          359.09632309652926
+        ],
+        [
+          41.23641583421068,
+          359.09632309652926
+        ]
+      ]
+    },
+    {
+      "title": "Principali risultati",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          40.48666281904322,
+          368.3267478942871
+        ],
+        [
+          126.70825956330191,
+          368.3267478942871
+        ],
+        [
+          126.70825956330191,
+          379.33766072409975
+        ],
+        [
+          40.48666281904322,
+          379.33766072409975
+        ]
+      ]
+    },
+    {
+      "title": "Discussione e conclusioni",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          41.986168849378146,
+          53.22722116879661
+        ],
+        [
+          163.44615730650779,
+          53.22722116879661
+        ],
+        [
+          163.44615730650779,
+          62.97305039688613
+        ],
+        [
+          41.986168849378146,
+          62.97305039688613
+        ]
+      ]
+    },
+    {
+      "title": "Ringraziamenti",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          41.23641583421068,
+          665.7151041956533
+        ],
+        [
+          115.46196433578992,
+          665.7151041956533
+        ],
+        [
+          115.46196433578992,
+          675.4609334237429
+        ],
+        [
+          41.23641583421068,
+          675.4609334237429
+        ]
+      ]
+    },
+    {
+      "title": "Bibliografia",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          41.23641583421068,
+          747.4301338773271
+        ],
+        [
+          98.96739800210564,
+          747.4301338773271
+        ],
+        [
+          98.96739800210564,
+          757.6185227334499
+        ],
+        [
+          41.23641583421068,
+          757.6185227334499
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          117
+        ],
+        [
+          "Span",
+          64
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          131
+        ],
+        [
+          "Span",
+          63
+        ],
+        [
+          "TableCell",
+          40
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          58
+        ],
+        [
+          "TableCell",
+          46
+        ],
+        [
+          "Span",
+          11
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          109
+        ],
+        [
+          "Span",
+          16
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          209
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "TableGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          169
+        ],
+        [
+          "Span",
+          66
+        ],
+        [
+          "Text",
+          24
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/mattioli_2025_carta_forestale"
+}

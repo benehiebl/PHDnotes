@@ -1,0 +1,1127 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Remote Sensing in Ecology and Conservation",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          65.10831260681152,
+          19.48410501882034
+        ],
+        [
+          392.8521719291168,
+          19.48410501882034
+        ],
+        [
+          392.8521719291168,
+          37.819245010614395
+        ],
+        [
+          65.10831260681152,
+          37.819245010614395
+        ]
+      ]
+    },
+    {
+      "title": "INTERDISCIPLINARY PERSPECTIVES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.47573814103826,
+          69.69314487501123
+        ],
+        [
+          248.90633793982212,
+          69.69314487501123
+        ],
+        [
+          248.90633793982212,
+          78.68580872985137
+        ],
+        [
+          64.47573814103826,
+          78.68580872985137
+        ]
+      ]
+    },
+    {
+      "title": "Will remote sensing shape the next generation of species distribution models?",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.47573814103826,
+          93.21106851100922
+        ],
+        [
+          516.555623013667,
+          93.21106851100922
+        ],
+        [
+          516.555623013667,
+          123.77207458019257
+        ],
+        [
+          64.47573814103826,
+          123.77207458019257
+        ]
+      ]
+    },
+    {
+      "title": "Keywords",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          63.655002057552345,
+          325.9840647379557
+        ],
+        [
+          101.21191452372285,
+          325.9840647379557
+        ],
+        [
+          101.21191452372285,
+          335.40704160928726
+        ],
+        [
+          63.655002057552345,
+          335.40704160928726
+        ]
+      ]
+    },
+    {
+      "title": "Correspondence",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.47573814103826,
+          398.67476423124697
+        ],
+        [
+          122.95373319918924,
+          398.67476423124697
+        ],
+        [
+          122.95373319918924,
+          407.6074184477329
+        ],
+        [
+          64.47573814103826,
+          407.6074184477329
+        ]
+      ]
+    },
+    {
+      "title": "Funding Information",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.47573814103826,
+          472.1148523791083
+        ],
+        [
+          139.44752667712925,
+          472.1148523791083
+        ],
+        [
+          139.44752667712925,
+          480.95383301377296
+        ],
+        [
+          64.47573814103826,
+          480.95383301377296
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          224.10048669576645,
+          324.4852874288157
+        ],
+        [
+          263.9006956470403,
+          324.4852874288157
+        ],
+        [
+          263.9006956470403,
+          334.2610038816929
+        ],
+        [
+          224.10048669576645,
+          334.2610038816929
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          64.47573814103826,
+          612.9999194382707
+        ],
+        [
+          140.19724456249017,
+          612.9999194382707
+        ],
+        [
+          140.19724456249017,
+          621.9925832931109
+        ],
+        [
+          64.47573814103826,
+          621.9925832931109
+        ]
+      ]
+    },
+    {
+      "title": "Remote Sensing of Species\nDistributions: The Response Variable",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          301.38658991508584,
+          109.41074356722191
+        ],
+        [
+          523.3030839819152,
+          109.41074356722191
+        ],
+        [
+          523.3030839819152,
+          133.32238897681236
+        ],
+        [
+          301.38658991508584,
+          133.32238897681236
+        ]
+      ]
+    },
+    {
+      "title": "Plants",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          300.5446215867996,
+          397.175986922107
+        ],
+        [
+          333.624458985605,
+          397.175986922107
+        ],
+        [
+          333.624458985605,
+          407.6074184477329
+        ],
+        [
+          300.5446215867996,
+          407.6074184477329
+        ]
+      ]
+    },
+    {
+      "title": "Animals",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          56.22884140206825,
+          636.2309677299412
+        ],
+        [
+          98.96276086764011,
+          636.2309677299412
+        ],
+        [
+          98.96276086764011,
+          645.983265787363
+        ],
+        [
+          56.22884140206825,
+          645.983265787363
+        ]
+      ]
+    },
+    {
+      "title": "Remote Sensing of Environmental Conditions: The Predictor Variable",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          64.47573814103826,
+          576.0749644041061
+        ],
+        [
+          271.39787450064944,
+          576.0749644041061
+        ],
+        [
+          271.39787450064944,
+          598.7615350014405
+        ],
+        [
+          64.47573814103826,
+          598.7615350014405
+        ]
+      ]
+    },
+    {
+      "title": "Abiotic predictor variables",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          310.38320453941674,
+          74.93886545700131
+        ],
+        [
+          446.83185967510235,
+          74.1894768024313
+        ],
+        [
+          446.83185967510235,
+          85.18880441784859
+        ],
+        [
+          310.38320453941674,
+          85.4303066209815
+        ]
+      ]
+    },
+    {
+      "title": "Biotic predictor variables",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          55.47912351670734,
+          600.9057818353176
+        ],
+        [
+          185.18031768414477,
+          600.9057818353176
+        ],
+        [
+          185.18031768414477,
+          610.7517534745607
+        ],
+        [
+          55.47912351670734,
+          610.7517534745607
+        ]
+      ]
+    },
+    {
+      "title": "Future Opportunities",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          64.47573814103826,
+          360.45594284817633
+        ],
+        [
+          191.92777865239296,
+          360.45594284817633
+        ],
+        [
+          191.92777865239296,
+          372.0802488923073
+        ],
+        [
+          64.47573814103826,
+          372.0802488923073
+        ]
+      ]
+    },
+    {
+      "title": "New space missions and sensor networks",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          64.47573814103826,
+          385.9351571035568
+        ],
+        [
+          276.6458996981758,
+          385.9351571035568
+        ],
+        [
+          276.6458996981758,
+          395.7650285959244
+        ],
+        [
+          64.47573814103826,
+          395.7650285959244
+        ]
+      ]
+    },
+    {
+      "title": "Novel predictor variables bring new possibilities",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          308.1018364429474,
+          182.85083171508322
+        ],
+        [
+          495.5635222235615,
+          182.85083171508322
+        ],
+        [
+          495.5635222235615,
+          205.14075323939323
+        ],
+        [
+          308.1018364429474,
+          205.14075323939323
+        ]
+      ]
+    },
+    {
+      "title": "The NG-SDMs",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          56.22884140206825,
+          527.5593672692776
+        ],
+        [
+          125.20288685527197,
+          527.5593672692776
+        ],
+        [
+          125.20288685527197,
+          538.0610539812694
+        ],
+        [
+          56.22884140206825,
+          538.0610539812694
+        ]
+      ]
+    },
+    {
+      "title": "Conclusions",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          56.22884140206825,
+          600.2603123105805
+        ],
+        [
+          128.95147628207653,
+          600.2603123105805
+        ],
+        [
+          128.95147628207653,
+          609.310058504343
+        ],
+        [
+          56.22884140206825,
+          609.310058504343
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgments",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          299.3819731473923,
+          217.3227098253038
+        ],
+        [
+          414.5939906045832,
+          217.3227098253038
+        ],
+        [
+          414.5939906045832,
+          230.3535832464695
+        ],
+        [
+          299.3819731473923,
+          230.3535832464695
+        ]
+      ]
+    },
+    {
+      "title": "Conflict of Interest",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          300.5446215867996,
+          371.6982363164425
+        ],
+        [
+          416.84314426066595,
+          371.6982363164425
+        ],
+        [
+          416.84314426066595,
+          381.4388251761367
+        ],
+        [
+          300.5446215867996,
+          381.4388251761367
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          301.38658991508584,
+          411.42754420638084
+        ],
+        [
+          351.6176882342668,
+          411.42754420638084
+        ],
+        [
+          351.6176882342668,
+          422.6552011774874
+        ],
+        [
+          301.38658991508584,
+          422.6552011774874
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          104
+        ],
+        [
+          "Span",
+          38
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "Footnote",
+          10
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          113
+        ],
+        [
+          "Span",
+          99
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          186
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Span",
+          19
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          119
+        ],
+        [
+          "Span",
+          79
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          112
+        ],
+        [
+          "Span",
+          75
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          115
+        ],
+        [
+          "Span",
+          71
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          115
+        ],
+        [
+          "Span",
+          55
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          63
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Span",
+          14
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          71
+        ],
+        [
+          "Span",
+          28
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          122
+        ],
+        [
+          "Span",
+          61
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          147
+        ],
+        [
+          "Span",
+          40
+        ],
+        [
+          "ListItem",
+          28
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          165
+        ],
+        [
+          "Span",
+          58
+        ],
+        [
+          "ListItem",
+          32
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          163
+        ],
+        [
+          "Span",
+          63
+        ],
+        [
+          "ListItem",
+          30
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          155
+        ],
+        [
+          "Span",
+          53
+        ],
+        [
+          "ListItem",
+          29
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          133
+        ],
+        [
+          "Span",
+          51
+        ],
+        [
+          "ListItem",
+          25
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/he_2015_remote_sensing_sdm"
+}

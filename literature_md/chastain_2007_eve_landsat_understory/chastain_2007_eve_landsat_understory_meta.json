@@ -1,0 +1,942 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Use of Landsat ETM and Topographic Data to Characterize Evergreen Understory Communities in Appalachian Deciduous Forests",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.75390625,
+          65.759765625
+        ],
+        [
+          572.25,
+          65.759765625
+        ],
+        [
+          572.25,
+          151.400390625
+        ],
+        [
+          44.75390625,
+          151.400390625
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          43.5,
+          220.5
+        ],
+        [
+          80.25,
+          220.5
+        ],
+        [
+          80.25,
+          229.5
+        ],
+        [
+          43.5,
+          229.5
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          43.5,
+          450.75
+        ],
+        [
+          93.75,
+          450.75
+        ],
+        [
+          93.75,
+          460.318359375
+        ],
+        [
+          43.5,
+          460.318359375
+        ]
+      ]
+    },
+    {
+      "title": "Methods",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          298.5,
+          408.70458984375
+        ],
+        [
+          334.5,
+          408.70458984375
+        ],
+        [
+          334.5,
+          418.5
+        ],
+        [
+          298.5,
+          418.5
+        ]
+      ]
+    },
+    {
+      "title": "Study Areas",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          298.5,
+          426.75
+        ],
+        [
+          341.25,
+          426.75
+        ],
+        [
+          341.25,
+          435.46728515625
+        ],
+        [
+          298.5,
+          435.46728515625
+        ]
+      ]
+    },
+    {
+      "title": "Image Classification",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          43.5,
+          482.11083984375
+        ],
+        [
+          114.75,
+          482.11083984375
+        ],
+        [
+          114.75,
+          491.25
+        ],
+        [
+          43.5,
+          491.25
+        ]
+      ]
+    },
+    {
+      "title": "Topography",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          29.25,
+          336.75
+        ],
+        [
+          84.75,
+          336.75
+        ],
+        [
+          84.75,
+          346.76806640625
+        ],
+        [
+          29.25,
+          346.76806640625
+        ]
+      ]
+    },
+    {
+      "title": "Field Data",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          297.67236328125,
+          336.75
+        ],
+        [
+          346.5,
+          336.75
+        ],
+        [
+          346.5,
+          345.75
+        ],
+        [
+          297.67236328125,
+          345.75
+        ]
+      ]
+    },
+    {
+      "title": "Analytical Approaches",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          28.5,
+          296.68359375
+        ],
+        [
+          130.5,
+          296.68359375
+        ],
+        [
+          130.5,
+          306.0
+        ],
+        [
+          28.5,
+          306.0
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          298.26123046875,
+          689.25
+        ],
+        [
+          330.0,
+          689.25
+        ],
+        [
+          330.0,
+          698.50634765625
+        ],
+        [
+          298.26123046875,
+          698.50634765625
+        ]
+      ]
+    },
+    {
+      "title": "Separability of Evergreen Understory Communities",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          298.5,
+          705.38818359375
+        ],
+        [
+          471.75,
+          705.38818359375
+        ],
+        [
+          471.75,
+          715.5
+        ],
+        [
+          298.5,
+          715.5
+        ]
+      ]
+    },
+    {
+      "title": "Map Accuracy",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          312.6884765625,
+          316.5
+        ],
+        [
+          365.25,
+          316.5
+        ],
+        [
+          365.25,
+          324.9755859375
+        ],
+        [
+          312.6884765625,
+          324.9755859375
+        ]
+      ]
+    },
+    {
+      "title": "Discussion and Conclusions",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          312.099609375,
+          595.27880859375
+        ],
+        [
+          425.25,
+          595.27880859375
+        ],
+        [
+          425.25,
+          604.5
+        ],
+        [
+          312.099609375,
+          604.5
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgments",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          28.5,
+          247.36376953125
+        ],
+        [
+          102.75,
+          247.36376953125
+        ],
+        [
+          102.75,
+          257.30419921875
+        ],
+        [
+          28.5,
+          257.30419921875
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          29.14892578125,
+          349.4443359375
+        ],
+        [
+          74.25,
+          349.4443359375
+        ],
+        [
+          74.25,
+          358.5
+        ],
+        [
+          29.14892578125,
+          358.5
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          130
+        ],
+        [
+          "Span",
+          87
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          148
+        ],
+        [
+          "Line",
+          140
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          94
+        ],
+        [
+          "Line",
+          91
+        ],
+        [
+          "Span",
+          67
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          84
+        ],
+        [
+          "Span",
+          42
+        ],
+        [
+          "TableCell",
+          35
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          81
+        ],
+        [
+          "Span",
+          43
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          128
+        ],
+        [
+          "Span",
+          95
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          191
+        ],
+        [
+          "Line",
+          87
+        ],
+        [
+          "Span",
+          46
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          171
+        ],
+        [
+          "Line",
+          95
+        ],
+        [
+          "Span",
+          88
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Table",
+          5
+        ],
+        [
+          "Caption",
+          4
+        ],
+        [
+          "TableGroup",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          108
+        ],
+        [
+          "TableCell",
+          103
+        ],
+        [
+          "Span",
+          88
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "TableGroup",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          54
+        ],
+        [
+          "Span",
+          9
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          119
+        ],
+        [
+          "Span",
+          84
+        ],
+        [
+          "TableCell",
+          59
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          189
+        ],
+        [
+          "Span",
+          127
+        ],
+        [
+          "ListItem",
+          33
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          210
+        ],
+        [
+          "Span",
+          142
+        ],
+        [
+          "ListItem",
+          41
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/chastain_2007_eve_landsat_understory"
+}

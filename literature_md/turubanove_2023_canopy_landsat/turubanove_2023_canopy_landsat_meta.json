@@ -1,0 +1,1776 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Remote Sensing of Environment",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          197.92552173528023,
+          84.87329909205437
+        ],
+        [
+          399.95106315612793,
+          84.87329909205437
+        ],
+        [
+          399.95106315612793,
+          98.18208642946988
+        ],
+        [
+          197.92552173528023,
+          98.18208642946988
+        ]
+      ]
+    },
+    {
+      "title": "Tree canopy extent and height change in Europe, 2001\u20132021, quantified using Landsat data archive",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.98645849732368,
+          166.38490982704056
+        ],
+        [
+          476.07085720417786,
+          166.38490982704056
+        ],
+        [
+          476.07085720417786,
+          196.87504994869232
+        ],
+        [
+          35.98645849732368,
+          196.87504994869232
+        ]
+      ]
+    },
+    {
+      "title": "ARTICLE INFO",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.98645849732368,
+          359.2582112252712
+        ],
+        [
+          115.45655434558014,
+          359.2582112252712
+        ],
+        [
+          115.45655434558014,
+          367.9954537165627
+        ],
+        [
+          35.98645849732368,
+          367.9954537165627
+        ]
+      ]
+    },
+    {
+      "title": "ABSTRACT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          200.17467539136297,
+          359.2582112252712
+        ],
+        [
+          259.40238833487484,
+          359.2582112252712
+        ],
+        [
+          259.40238833487484,
+          367.9954537165627
+        ],
+        [
+          200.17467539136297,
+          367.9954537165627
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.04210162162781,
+          572.4103322327137
+        ],
+        [
+          98.2130429822792,
+          572.4103322327137
+        ],
+        [
+          98.2130429822792,
+          580.9364170730114
+        ],
+        [
+          36.04210162162781,
+          580.9364170730114
+        ]
+      ]
+    },
+    {
+      "title": "2. Data and methods",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.38546145652947,
+          137.15512837093883
+        ],
+        [
+          389.8533003876732,
+          137.15512837093883
+        ],
+        [
+          389.8533003876732,
+          146.1489072805086
+        ],
+        [
+          304.38546145652947,
+          146.1489072805086
+        ]
+      ]
+    },
+    {
+      "title": "2.1. Analysis area",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.38546145652947,
+          336.00525256991386
+        ],
+        [
+          371.11035325365043,
+          336.00525256991386
+        ],
+        [
+          371.11035325365043,
+          344.7615248668408
+        ],
+        [
+          304.38546145652947,
+          344.7615248668408
+        ]
+      ]
+    },
+    {
+      "title": "2.2. Definitions",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          35.98645849732368,
+          53.21319188162108
+        ],
+        [
+          92.21529989939192,
+          53.21319188162108
+        ],
+        [
+          92.21529989939192,
+          61.45748921539336
+        ],
+        [
+          35.98645849732368,
+          61.45748921539336
+        ]
+      ]
+    },
+    {
+      "title": "2.3. Source data",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          304.38546145652947,
+          107.17586533903963
+        ],
+        [
+          365.11261017076316,
+          107.17586533903963
+        ],
+        [
+          365.11261017076316,
+          115.42016267281191
+        ],
+        [
+          304.38546145652947,
+          115.42016267281191
+        ]
+      ]
+    },
+    {
+      "title": "2.3.1. Landsat data",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          304.38546145652947,
+          128.16134946136907
+        ],
+        [
+          376.3583784511768,
+          128.16134946136907
+        ],
+        [
+          376.3583784511768,
+          136.02980813384056
+        ],
+        [
+          304.38546145652947,
+          136.02980813384056
+        ]
+      ]
+    },
+    {
+      "title": "2.3.2. Airborne laser scanning data",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          35.98645849732368,
+          608.5790395475537
+        ],
+        [
+          160.43962746723474,
+          608.5790395475537
+        ],
+        [
+          160.43962746723474,
+          618.1411509215832
+        ],
+        [
+          35.98645849732368,
+          618.1411509215832
+        ]
+      ]
+    },
+    {
+      "title": "2.3.3. GEDI data",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          304.38546145652947,
+          686.5251234304917
+        ],
+        [
+          367.687568962574,
+          686.5251234304917
+        ],
+        [
+          367.687568962574,
+          695.6510131061077
+        ],
+        [
+          304.38546145652947,
+          695.6510131061077
+        ]
+      ]
+    },
+    {
+      "title": "2.3.4. Auxiliary datasets",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          35.98645849732368,
+          408.0894244015217
+        ],
+        [
+          124.45316896991106,
+          408.0894244015217
+        ],
+        [
+          124.45316896991106,
+          418.21071929499385
+        ],
+        [
+          35.98645849732368,
+          418.21071929499385
+        ]
+      ]
+    },
+    {
+      "title": "2.4. Tree canopy height mapping",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          305.13517934189036,
+          116.91912582440688
+        ],
+        [
+          420.5917336874705,
+          116.91912582440688
+        ],
+        [
+          420.5917336874705,
+          125.16342315817916
+        ],
+        [
+          305.13517934189036,
+          125.16342315817916
+        ]
+      ]
+    },
+    {
+      "title": "2.5. Tree canopy removal detection",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          304.3232290148735,
+          702.2642365222388
+        ],
+        [
+          428.83863042644055,
+          702.2642365222388
+        ],
+        [
+          428.83863042644055,
+          711.2580154318085
+        ],
+        [
+          304.3232290148735,
+          711.2580154318085
+        ]
+      ]
+    },
+    {
+      "title": "2.6. Continental tree canopy height time series",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          35.98645849732368,
+          294.54625928840966
+        ],
+        [
+          196.4260859645584,
+          294.54625928840966
+        ],
+        [
+          196.4260859645584,
+          303.5400381979794
+        ],
+        [
+          35.98645849732368,
+          303.5400381979794
+        ]
+      ]
+    },
+    {
+      "title": "2.7. Validation of tree canopy height, extent, and change maps",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          305.13517934189036,
+          158.89009406906575
+        ],
+        [
+          521.8036482111934,
+          158.89009406906575
+        ],
+        [
+          521.8036482111934,
+          167.8838729786355
+        ],
+        [
+          305.13517934189036,
+          167.8838729786355
+        ]
+      ]
+    },
+    {
+      "title": "2.7.1. Validation using reference Lidar data",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          305.13517934189036,
+          179.8755781913952
+        ],
+        [
+          457.3279100701551,
+          179.8755781913952
+        ],
+        [
+          457.3279100701551,
+          188.86935710096495
+        ],
+        [
+          305.13517934189036,
+          188.86935710096495
+        ]
+      ]
+    },
+    {
+      "title": "2.7.2. Validation using reference sample data",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          302.8699184656143,
+          367.9954537165627
+        ],
+        [
+          462.5759352676815,
+          367.9954537165627
+        ],
+        [
+          462.5759352676815,
+          376.98923262613243
+        ],
+        [
+          302.8699184656143,
+          376.98923262613243
+        ]
+      ]
+    },
+    {
+      "title": "app/view/europe-tree-dynamics.",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          35.98645849732368,
+          53.96267345741856
+        ],
+        [
+          154.44188438434745,
+          53.96267345741856
+        ],
+        [
+          154.44188438434745,
+          61.62034043669701
+        ],
+        [
+          35.98645849732368,
+          61.62034043669701
+        ]
+      ]
+    },
+    {
+      "title": "3. Results",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          35.98645849732368,
+          242.08254898258605
+        ],
+        [
+          78.72037796289555,
+          242.08254898258605
+        ],
+        [
+          78.72037796289555,
+          250.3268463163583
+        ],
+        [
+          35.98645849732368,
+          250.3268463163583
+        ]
+      ]
+    },
+    {
+      "title": "3.1. Map validation results",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          35.98645849732368,
+          263.06803310491546
+        ],
+        [
+          131.20062993815924,
+          263.06803310491546
+        ],
+        [
+          131.20062993815924,
+          272.0596162676811
+        ],
+        [
+          35.98645849732368,
+          272.0596162676811
+        ]
+      ]
+    },
+    {
+      "title": "3.1.1. Comparison with the reference Lidar data",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          35.46077740192413,
+          284.0535172272449
+        ],
+        [
+          202.88215267658234,
+          284.0535172272449
+        ],
+        [
+          202.88215267658234,
+          292.2978145610172
+        ],
+        [
+          35.46077740192413,
+          292.2978145610172
+        ]
+      ]
+    },
+    {
+      "title": "3.1.2. Validation using reference sample data",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          304.38546145652947,
+          471.4239111766149
+        ],
+        [
+          462.5759352676815,
+          471.4239111766149
+        ],
+        [
+          462.5759352676815,
+          481.72379347682005
+        ],
+        [
+          304.38546145652947,
+          481.72379347682005
+        ]
+      ]
+    },
+    {
+      "title": "3.2. Regional tree canopy extent and change",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          35.98645849732368,
+          361.9710564017296
+        ],
+        [
+          190.67434406280518,
+          361.9710564017296
+        ],
+        [
+          190.67434406280518,
+          370.9933800197526
+        ],
+        [
+          35.98645849732368,
+          370.9933800197526
+        ]
+      ]
+    },
+    {
+      "title": "3.2.1. Annual tree canopy extent and height",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          35.46077740192413,
+          383.28626850247383
+        ],
+        [
+          190.42834288167114,
+          383.28626850247383
+        ],
+        [
+          190.42834288167114,
+          391.97886414208205
+        ],
+        [
+          35.46077740192413,
+          391.97886414208205
+        ]
+      ]
+    },
+    {
+      "title": "3.2.2. Annual tree canopy removal",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          304.38546145652947,
+          693.270457612669
+        ],
+        [
+          428.0889125410796,
+          693.325717240572
+        ],
+        [
+          428.0889125410796,
+          703.0137180980362
+        ],
+        [
+          304.38546145652947,
+          702.2642365222388
+        ]
+      ]
+    },
+    {
+      "title": "3.3. Data Intercomparison",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          304.38546145652947,
+          680.924139291048
+        ],
+        [
+          398.1001971266432,
+          680.924139291048
+        ],
+        [
+          398.1001971266432,
+          690.2725313094791
+        ],
+        [
+          304.38546145652947,
+          690.2725313094791
+        ]
+      ]
+    },
+    {
+      "title": "4. Discussion",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          35.75143951177597,
+          378.4881957777274
+        ],
+        [
+          89.9661462433092,
+          378.4881957777274
+        ],
+        [
+          89.9661462433092,
+          386.77421230077744
+        ],
+        [
+          35.75143951177597,
+          386.77421230077744
+        ]
+      ]
+    },
+    {
+      "title": "4.1. The value and limitations of the continental tree canopy height maps",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          34.87945318222046,
+          398.78824093937874
+        ],
+        [
+          283.393360666424,
+          398.78824093937874
+        ],
+        [
+          283.393360666424,
+          408.4674588096266
+        ],
+        [
+          34.87945318222046,
+          408.4674588096266
+        ]
+      ]
+    },
+    {
+      "title": "4.2. Causes of tree canopy extent change",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          35.46077740192413,
+          535.1298451194007
+        ],
+        [
+          178.43285671589658,
+          535.1298451194007
+        ],
+        [
+          178.43285671589658,
+          544.1236240289704
+        ],
+        [
+          35.46077740192413,
+          544.1236240289704
+        ]
+      ]
+    },
+    {
+      "title": "4.2.1. Sample-based assessment of tree canopy extent change causes",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          35.46077740192413,
+          556.1153292417301
+        ],
+        [
+          269.8984387299276,
+          556.1153292417301
+        ],
+        [
+          269.8984387299276,
+          565.4344446361065
+        ],
+        [
+          35.46077740192413,
+          565.4344446361065
+        ]
+      ]
+    },
+    {
+      "title": "4.2.2. Interannual dynamics and causes of tree canopy removal",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          305.13517934189036,
+          137.19245606660843
+        ],
+        [
+          524.0528018672761,
+          137.19245606660843
+        ],
+        [
+          524.0528018672761,
+          146.1489072805086
+        ],
+        [
+          305.13517934189036,
+          146.1489072805086
+        ]
+      ]
+    },
+    {
+      "title": "4.2.3. Tree canopy extent change in Fennoscandia",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          304.03256690502167,
+          587.5935554252243
+        ],
+        [
+          479.0697287456215,
+          587.5935554252243
+        ],
+        [
+          479.0697287456215,
+          596.587334334794
+        ],
+        [
+          304.03256690502167,
+          596.587334334794
+        ]
+      ]
+    },
+    {
+      "title": "4.3. Implications of the observed tree canopy change in Europe",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          304.38546145652947,
+          398.72419832425936
+        ],
+        [
+          521.0539303258324,
+          398.72419832425936
+        ],
+        [
+          521.0539303258324,
+          407.7179772338291
+        ],
+        [
+          304.38546145652947,
+          407.7179772338291
+        ]
+      ]
+    },
+    {
+      "title": "5. Conclusion",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          35.98645849732368,
+          283.3040356514474
+        ],
+        [
+          92.96501778475285,
+          283.3040356514474
+        ],
+        [
+          92.96501778475285,
+          291.5483329852197
+        ],
+        [
+          35.98645849732368,
+          291.5483329852197
+        ]
+      ]
+    },
+    {
+      "title": "Author contributions",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          35.98645849732368,
+          566.2095432579517
+        ],
+        [
+          118.45542588702378,
+          566.2095432579517
+        ],
+        [
+          118.45542588702378,
+          574.7356280982494
+        ],
+        [
+          35.98645849732368,
+          574.7356280982494
+        ]
+      ]
+    },
+    {
+      "title": "CRediT authorship contribution statement",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          36.62342584133148,
+          659.2213778793812
+        ],
+        [
+          200.17467539136297,
+          659.2213778793812
+        ],
+        [
+          200.17467539136297,
+          669.2870471871496
+        ],
+        [
+          36.62342584133148,
+          669.2870471871496
+        ]
+      ]
+    },
+    {
+      "title": "Declaration of Competing Interest",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          304.3232290148735,
+          149.1468335836985
+        ],
+        [
+          437.83524505077145,
+          149.1468335836985
+        ],
+        [
+          437.83524505077145,
+          157.73256954550743
+        ],
+        [
+          304.3232290148735,
+          157.73256954550743
+        ]
+      ]
+    },
+    {
+      "title": "Data availability",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          305.13517934189036,
+          212.8527675264843
+        ],
+        [
+          369.61091748292864,
+          212.8527675264843
+        ],
+        [
+          369.61091748292864,
+          220.90310722589493
+        ],
+        [
+          305.13517934189036,
+          220.90310722589493
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgments",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          305.13517934189036,
+          254.0742541953457
+        ],
+        [
+          377.10809633653776,
+          254.0742541953457
+        ],
+        [
+          377.10809633653776,
+          263.06803310491546
+        ],
+        [
+          305.13517934189036,
+          263.06803310491546
+        ]
+      ]
+    },
+    {
+      "title": "Appendix A. Supplementary data",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          305.13517934189036,
+          328.27293019929624
+        ],
+        [
+          436.3358092800496,
+          328.27293019929624
+        ],
+        [
+          436.3358092800496,
+          337.266709108866
+        ],
+        [
+          305.13517934189036,
+          337.266709108866
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          304.38546145652947,
+          380.5734233260155
+        ],
+        [
+          348.61881669282315,
+          380.5734233260155
+        ],
+        [
+          348.61881669282315,
+          388.9809378388921
+        ],
+        [
+          304.38546145652947,
+          388.9809378388921
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          87
+        ],
+        [
+          "Span",
+          51
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          131
+        ],
+        [
+          "Span",
+          53
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          80
+        ],
+        [
+          "Span",
+          35
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          101
+        ],
+        [
+          "Span",
+          80
+        ],
+        [
+          "TableCell",
+          40
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          146
+        ],
+        [
+          "Span",
+          52
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          147
+        ],
+        [
+          "Span",
+          85
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          130
+        ],
+        [
+          "TableCell",
+          34
+        ],
+        [
+          "Span",
+          33
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          122
+        ],
+        [
+          "Span",
+          59
+        ],
+        [
+          "TableCell",
+          30
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          92
+        ],
+        [
+          "Span",
+          31
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          65
+        ],
+        [
+          "Span",
+          13
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          131
+        ],
+        [
+          "Span",
+          108
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          148
+        ],
+        [
+          "Span",
+          21
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          120
+        ],
+        [
+          "Span",
+          52
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          180
+        ],
+        [
+          "Span",
+          66
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          279
+        ],
+        [
+          "Span",
+          110
+        ],
+        [
+          "ListItem",
+          42
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          164
+        ],
+        [
+          "Span",
+          68
+        ],
+        [
+          "ListItem",
+          26
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/turubanove_2023_canopy_landsat"
+}

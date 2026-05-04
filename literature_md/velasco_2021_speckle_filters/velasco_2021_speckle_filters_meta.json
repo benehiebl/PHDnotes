@@ -1,0 +1,452 @@
+{
+  "table_of_contents": [
+    {
+      "title": "COMPARISON OF SPECKLE NOISE FILTERS ON CROP CLASSIFICATION BASED ON SENTINEL-1 SAR TIME-SERIES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          66.75,
+          95.25
+        ],
+        [
+          546.75,
+          95.25
+        ],
+        [
+          546.75,
+          118.5
+        ],
+        [
+          66.75,
+          118.5
+        ]
+      ]
+    },
+    {
+      "title": "ABSTRACT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          147.75,
+          230.09765625
+        ],
+        [
+          204.0,
+          230.09765625
+        ],
+        [
+          204.0,
+          238.5
+        ],
+        [
+          147.75,
+          238.5
+        ]
+      ]
+    },
+    {
+      "title": "1. INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          128.25,
+          474.0
+        ],
+        [
+          223.5,
+          474.0
+        ],
+        [
+          223.5,
+          483.78515625
+        ],
+        [
+          128.25,
+          483.78515625
+        ]
+      ]
+    },
+    {
+      "title": "2. STUDY AREA AND DATA SOURCE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          347.23828125,
+          667.08984375
+        ],
+        [
+          525.75,
+          667.08984375
+        ],
+        [
+          525.75,
+          676.5
+        ],
+        [
+          347.23828125,
+          676.5
+        ]
+      ]
+    },
+    {
+      "title": "3. METHODOLOGY",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          126.75,
+          518.25
+        ],
+        [
+          224.25,
+          518.25
+        ],
+        [
+          224.25,
+          528.0
+        ],
+        [
+          126.75,
+          528.0
+        ]
+      ]
+    },
+    {
+      "title": "3.1. Spectral Similarity Value Model",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          313.171875,
+          371.63671875
+        ],
+        [
+          473.25,
+          371.63671875
+        ],
+        [
+          473.25,
+          381.0
+        ],
+        [
+          313.171875,
+          381.0
+        ]
+      ]
+    },
+    {
+      "title": "SCS = \\frac{1}{N-1} \\left[ \\frac{\\sum_{n=1}^{N} (x_n^i - u^i)(x_n^c - u^c)}{\\sigma^i \\sigma^c} \\right]  (3)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          80.25,
+          344.56640625
+        ],
+        [
+          299.25,
+          344.56640625
+        ],
+        [
+          299.25,
+          374.25
+        ],
+        [
+          80.25,
+          374.25
+        ]
+      ]
+    },
+    {
+      "title": "3.2. Random Forest Model",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          52.5,
+          520.5
+        ],
+        [
+          171.0,
+          520.5
+        ],
+        [
+          171.0,
+          530.19140625
+        ],
+        [
+          52.5,
+          530.19140625
+        ]
+      ]
+    },
+    {
+      "title": "4. RESULTS AND DISCUSSION",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          361.880859375,
+          324.45703125
+        ],
+        [
+          510.0,
+          324.45703125
+        ],
+        [
+          510.0,
+          333.75
+        ],
+        [
+          361.880859375,
+          333.75
+        ]
+      ]
+    },
+    {
+      "title": "5. CONCLUSION",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          133.5,
+          311.25
+        ],
+        [
+          217.5,
+          311.25
+        ],
+        [
+          217.5,
+          319.5
+        ],
+        [
+          133.5,
+          319.5
+        ]
+      ]
+    },
+    {
+      "title": "6. REFERENCES",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          134.25,
+          608.30859375
+        ],
+        [
+          216.75,
+          608.30859375
+        ],
+        [
+          216.75,
+          618.0
+        ],
+        [
+          134.25,
+          618.0
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          104
+        ],
+        [
+          "Span",
+          76
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          159
+        ],
+        [
+          "Line",
+          83
+        ],
+        [
+          "Span",
+          57
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          103
+        ],
+        [
+          "Span",
+          32
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          126
+        ],
+        [
+          "Span",
+          92
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/velasco_2021_speckle_filters"
+}

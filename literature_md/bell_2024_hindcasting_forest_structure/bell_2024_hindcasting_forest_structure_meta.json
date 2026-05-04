@@ -1,0 +1,1116 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Forest Ecology and Management",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          195.67636807919752,
+          86.1903812167102
+        ],
+        [
+          401.69503581523895,
+          86.1903812167102
+        ],
+        [
+          401.69503581523895,
+          99.60017290711403
+        ],
+        [
+          195.67636807919752,
+          99.60017290711403
+        ]
+      ]
+    },
+    {
+      "title": "Hindcasting and updating Landsat-based forest structure mapping across years to support forest management and planning",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.23674061196277,
+          166.38490982704056
+        ],
+        [
+          475.52321171760565,
+          166.38490982704056
+        ],
+        [
+          475.52321171760565,
+          197.26259925961494
+        ],
+        [
+          35.23674061196277,
+          197.26259925961494
+        ]
+      ]
+    },
+    {
+      "title": "ARTICLEINFO",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.98645849732368,
+          278.05766462086507
+        ],
+        [
+          115.97418183088304,
+          278.05766462086507
+        ],
+        [
+          115.97418183088304,
+          286.30196195463736
+        ],
+        [
+          35.98645849732368,
+          286.30196195463736
+        ]
+      ]
+    },
+    {
+      "title": "ABSTRACT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          200.17467539136297,
+          278.05766462086507
+        ],
+        [
+          259.40238833487484,
+          278.05766462086507
+        ],
+        [
+          259.40238833487484,
+          286.30196195463736
+        ],
+        [
+          200.17467539136297,
+          286.30196195463736
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.62342584133148,
+          606.3305948201613
+        ],
+        [
+          98.2130429822792,
+          606.3305948201613
+        ],
+        [
+          98.2130429822792,
+          615.0407564342022
+        ],
+        [
+          36.62342584133148,
+          615.0407564342022
+        ]
+      ]
+    },
+    {
+      "title": "2. Methods",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          305.13517934189036,
+          264.56699625651044
+        ],
+        [
+          351.6176882342668,
+          264.56699625651044
+        ],
+        [
+          351.6176882342668,
+          273.5607751660802
+        ],
+        [
+          305.13517934189036,
+          273.5607751660802
+        ]
+      ]
+    },
+    {
+      "title": "2.1. Study area",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.38546145652947,
+          284.46119421720505
+        ],
+        [
+          362.1137386293195,
+          284.46119421720505
+        ],
+        [
+          362.1137386293195,
+          293.0472961368147
+        ],
+        [
+          304.38546145652947,
+          293.0472961368147
+        ]
+      ]
+    },
+    {
+      "title": "2.2. Geospatial predictors",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.38546145652947,
+          457.69573619961744
+        ],
+        [
+          396.6007613559214,
+          457.69573619961744
+        ],
+        [
+          396.6007613559214,
+          468.42598487342497
+        ],
+        [
+          304.38546145652947,
+          468.42598487342497
+        ]
+      ]
+    },
+    {
+      "title": "2.2.1. Landsat imagery",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.38546145652947,
+          617.5728184571235
+        ],
+        [
+          387.60414673159045,
+          617.5728184571235
+        ],
+        [
+          387.60414673159045,
+          627.4423343837261
+        ],
+        [
+          304.38546145652947,
+          627.4423343837261
+        ]
+      ]
+    },
+    {
+      "title": "2.2.2. Climate data",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          35.98645849732368,
+          674.533418217732
+        ],
+        [
+          105.7102218358883,
+          674.533418217732
+        ],
+        [
+          105.7102218358883,
+          683.2494351565838
+        ],
+        [
+          35.98645849732368,
+          683.2494351565838
+        ]
+      ]
+    },
+    {
+      "title": "2.2.3. Topographic and location data",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          304.38546145652947,
+          148.39735200790105
+        ],
+        [
+          435.5860913946887,
+          148.39735200790105
+        ],
+        [
+          435.5860913946887,
+          156.64164934167331
+        ],
+        [
+          304.38546145652947,
+          156.64164934167331
+        ]
+      ]
+    },
+    {
+      "title": "2.3. Forest inventory data",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          304.38546145652947,
+          284.46119421720505
+        ],
+        [
+          396.6007613559214,
+          284.46119421720505
+        ],
+        [
+          396.6007613559214,
+          293.79677771261214
+        ],
+        [
+          304.38546145652947,
+          293.79677771261214
+        ]
+      ]
+    },
+    {
+      "title": "2.4. Forest structure mapping",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          35.98645849732368,
+          84.48574978113174
+        ],
+        [
+          138.69780879176835,
+          84.48574978113174
+        ],
+        [
+          138.69780879176835,
+          93.685196974685
+        ],
+        [
+          35.98645849732368,
+          93.685196974685
+        ]
+      ]
+    },
+    {
+      "title": "2.5. Evaluating Imputation Updating and Hindcasting Accuracy and Consistency",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          35.98645849732368,
+          535.1298451194007
+        ],
+        [
+          269.8984387299276,
+          535.1298451194007
+        ],
+        [
+          269.8984387299276,
+          554.583063930273
+        ],
+        [
+          35.98645849732368,
+          554.583063930273
+        ]
+      ]
+    },
+    {
+      "title": "3. Results",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          304.38546145652947,
+          513.502836972475
+        ],
+        [
+          347.11938092210136,
+          513.502836972475
+        ],
+        [
+          347.11938092210136,
+          522.3886583308436
+        ],
+        [
+          304.38546145652947,
+          522.3886583308436
+        ]
+      ]
+    },
+    {
+      "title": "3.1. Imputation accuracy outside reference epoch",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          303.451242685318,
+          535.1298451194007
+        ],
+        [
+          475.32113931881696,
+          535.1298451194007
+        ],
+        [
+          475.32113931881696,
+          544.1236240289704
+        ],
+        [
+          303.451242685318,
+          544.1236240289704
+        ]
+      ]
+    },
+    {
+      "title": "3.2. Prediction consistency at multiple scales",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          35.98645849732368,
+          640.6190109550953
+        ],
+        [
+          190.42834288167114,
+          640.6190109550953
+        ],
+        [
+          190.42834288167114,
+          649.145095795393
+        ],
+        [
+          35.98645849732368,
+          649.145095795393
+        ]
+      ]
+    },
+    {
+      "title": "3.3. Geographic patterns of differences due to extrapolation: Basal area case study",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          35.98645849732368,
+          514.1443609970713
+        ],
+        [
+          281.8939248957022,
+          514.1443609970713
+        ],
+        [
+          281.8939248957022,
+          532.8814003920082
+        ],
+        [
+          35.98645849732368,
+          532.8814003920082
+        ]
+      ]
+    },
+    {
+      "title": "4. Discussion",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          305.13517934189036,
+          608.5790395475537
+        ],
+        [
+          359.1148670878759,
+          608.5790395475537
+        ],
+        [
+          359.1148670878759,
+          618.1411509215832
+        ],
+        [
+          305.13517934189036,
+          618.1411509215832
+        ]
+      ]
+    },
+    {
+      "title": "CRediT authorship contribution statement",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          35.98645849732368,
+          583.0966659704394
+        ],
+        [
+          200.9243932767239,
+          583.0966659704394
+        ],
+        [
+          200.9243932767239,
+          593.3379950225353
+        ],
+        [
+          35.98645849732368,
+          593.3379950225353
+        ]
+      ]
+    },
+    {
+      "title": "Declaration of Competing Interest",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          35.98645849732368,
+          702.2642365222388
+        ],
+        [
+          168.68652420620475,
+          702.2642365222388
+        ],
+        [
+          168.68652420620475,
+          711.2580154318085
+        ],
+        [
+          35.98645849732368,
+          711.2580154318085
+        ]
+      ]
+    },
+    {
+      "title": "Data Availability",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          305.13517934189036,
+          518.6412504518562
+        ],
+        [
+          372.04750061035156,
+          518.6412504518562
+        ],
+        [
+          372.04750061035156,
+          528.2297107875347
+        ],
+        [
+          305.13517934189036,
+          528.2297107875347
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          305.13517934189036,
+          560.0087542831898
+        ],
+        [
+          381.6393502354622,
+          560.0087542831898
+        ],
+        [
+          381.6393502354622,
+          569.6059976060848
+        ],
+        [
+          305.13517934189036,
+          569.6059976060848
+        ]
+      ]
+    },
+    {
+      "title": "Appendix A. Supporting information",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          304.38546145652947,
+          676.0323813693269
+        ],
+        [
+          448.3312954458242,
+          676.0323813693269
+        ],
+        [
+          448.3312954458242,
+          686.3498296439648
+        ],
+        [
+          304.38546145652947,
+          686.3498296439648
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          36.73617638268459,
+          53.48180490732193
+        ],
+        [
+          78.72037796289555,
+          53.48180490732193
+        ],
+        [
+          78.72037796289555,
+          60.70800763959588
+        ],
+        [
+          36.73617638268459,
+          60.70800763959588
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          80
+        ],
+        [
+          "Span",
+          46
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          131
+        ],
+        [
+          "Span",
+          79
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          108
+        ],
+        [
+          "Span",
+          64
+        ],
+        [
+          "TableCell",
+          21
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          138
+        ],
+        [
+          "Span",
+          112
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          145
+        ],
+        [
+          "Span",
+          39
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          270
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "Span",
+          43
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          114
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          85
+        ],
+        [
+          "Span",
+          38
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          114
+        ],
+        [
+          "Span",
+          15
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          316
+        ],
+        [
+          "Span",
+          153
+        ],
+        [
+          "ListItem",
+          49
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          32
+        ],
+        [
+          "Span",
+          16
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/bell_2024_hindcasting_forest_structure"
+}

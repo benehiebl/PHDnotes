@@ -1,0 +1,1306 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Ecological Indicators",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          232.4125444618821,
+          84.87329909205437
+        ],
+        [
+          365.07160997390747,
+          84.87329909205437
+        ],
+        [
+          365.07160997390747,
+          98.18208642946988
+        ],
+        [
+          232.4125444618821,
+          98.18208642946988
+        ]
+      ]
+    },
+    {
+      "title": "Original Articles",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.98645849732368,
+          146.49363952875137
+        ],
+        [
+          107.95937549197104,
+          146.49363952875137
+        ],
+        [
+          107.95937549197104,
+          156.64164934167331
+        ],
+        [
+          35.98645849732368,
+          156.64164934167331
+        ]
+      ]
+    },
+    {
+      "title": "Aridity-induced phenological shifts and greening trends in Mediterranean forest species: Insights from 28 years of Landsat data in southern Spain",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.98645849732368,
+          166.38490982704056
+        ],
+        [
+          480.56916451634333,
+          166.38490982704056
+        ],
+        [
+          480.56916451634333,
+          197.26259925961494
+        ],
+        [
+          35.98645849732368,
+          197.26259925961494
+        ]
+      ]
+    },
+    {
+      "title": "ARTICLE INFO",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.98645849732368,
+          291.5483329852197
+        ],
+        [
+          116.95599011630196,
+          291.5483329852197
+        ],
+        [
+          116.95599011630196,
+          299.792630318992
+        ],
+        [
+          35.98645849732368,
+          299.792630318992
+        ]
+      ]
+    },
+    {
+      "title": "Keywords:\nAridity\nClimate change\nGreening\nNDVI\nPhenometrics",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.75143951177597,
+          310.28537238015673
+        ],
+        [
+          82.83870130777359,
+          310.28537238015673
+        ],
+        [
+          82.83870130777359,
+          360.8084084689617
+        ],
+        [
+          35.75143951177597,
+          360.8084084689617
+        ]
+      ]
+    },
+    {
+      "title": "ABSTRACT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          199.3942073583603,
+          291.43708181381226
+        ],
+        [
+          259.40238833487484,
+          291.43708181381226
+        ],
+        [
+          259.40238833487484,
+          299.792630318992
+        ],
+        [
+          199.3942073583603,
+          299.792630318992
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.332763731479645,
+          522.3886583308436
+        ],
+        [
+          98.2130429822792,
+          522.3886583308436
+        ],
+        [
+          98.2130429822792,
+          531.3301052749157
+        ],
+        [
+          36.332763731479645,
+          531.3301052749157
+        ]
+      ]
+    },
+    {
+      "title": "Forests cover approximately 31 % of the Earth's land area (Anaya-Romero et al., 2016; Masiero et al., 2019) and play a crucial role in supporting terrestrial biodiversity (Hill et al., 2019; Santos et al., 2016), while providing vital ecosystem services to society. These services include regulating atmospheric gases and climate, preventing soil erosion, improving water quality, and supplying forest products and cultural services (Anaya-Romero et al., 2016; Mori et al., 2017; Garc\u00eda",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.98645849732368,
+          543.374142453173
+        ],
+        [
+          290.1408216346722,
+          543.374142453173
+        ],
+        [
+          290.1408216346722,
+          615.8158550560474
+        ],
+        [
+          35.98645849732368,
+          615.8158550560474
+        ]
+      ]
+    },
+    {
+      "title": "et al., 2020).",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          304.38546145652947,
+          522.3886583308436
+        ],
+        [
+          351.6176882342668,
+          522.3886583308436
+        ],
+        [
+          351.6176882342668,
+          531.3301052749157
+        ],
+        [
+          304.38546145652947,
+          531.3301052749157
+        ]
+      ]
+    },
+    {
+      "title": "2. Study area and data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.03256690502167,
+          53.21319188162108
+        ],
+        [
+          396.6007613559214,
+          53.21319188162108
+        ],
+        [
+          396.6007613559214,
+          61.45748921539336
+        ],
+        [
+          304.03256690502167,
+          61.45748921539336
+        ]
+      ]
+    },
+    {
+      "title": "2.1. Forest data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.38546145652947,
+          305.03900134957433
+        ],
+        [
+          362.8634565146804,
+          305.03900134957433
+        ],
+        [
+          362.8634565146804,
+          313.28329868334663
+        ],
+        [
+          304.38546145652947,
+          313.28329868334663
+        ]
+      ]
+    },
+    {
+      "title": "2.2. Spectral data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.38546145652947,
+          451.4949472248555
+        ],
+        [
+          370.36063536828954,
+          451.4949472248555
+        ],
+        [
+          370.36063536828954,
+          460.1816875396527
+        ],
+        [
+          304.38546145652947,
+          460.1816875396527
+        ]
+      ]
+    },
+    {
+      "title": "3. Phenometrics temporal analysis",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          35.98645849732368,
+          587.5935554252243
+        ],
+        [
+          172.65329325199127,
+          587.5935554252243
+        ],
+        [
+          172.65329325199127,
+          596.587334334794
+        ],
+        [
+          35.98645849732368,
+          596.587334334794
+        ]
+      ]
+    },
+    {
+      "title": "(Table S1).",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          35.98645849732368,
+          317.01533633470535
+        ],
+        [
+          77.22094219217372,
+          317.01533633470535
+        ],
+        [
+          77.22094219217372,
+          326.0244854719038
+        ],
+        [
+          35.98645849732368,
+          326.0244854719038
+        ]
+      ]
+    },
+    {
+      "title": "4. Results",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          35.75143951177597,
+          649.9201944172382
+        ],
+        [
+          77.22094219217372,
+          649.9201944172382
+        ],
+        [
+          77.22094219217372,
+          659.5437867017824
+        ],
+        [
+          35.75143951177597,
+          659.5437867017824
+        ]
+      ]
+    },
+    {
+      "title": "4.1. Characterization of the phenological cycle and its metrics for Mediterranean forest species",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          35.98645849732368,
+          673.0344550661371
+        ],
+        [
+          261.6515419909576,
+          673.0344550661371
+        ],
+        [
+          261.6515419909576,
+          691.771494461074
+        ],
+        [
+          35.98645849732368,
+          691.771494461074
+        ]
+      ]
+    },
+    {
+      "title": "4.2. Effect of aridity on species phenology metrics",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          304.38546145652947,
+          556.1153292417301
+        ],
+        [
+          476.07085720417786,
+          556.1153292417301
+        ],
+        [
+          476.07085720417786,
+          565.4344446361065
+        ],
+        [
+          304.38546145652947,
+          565.4344446361065
+        ]
+      ]
+    },
+    {
+      "title": "Lenght of season between species",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          242.90859485693483,
+          428.7034613561585
+        ],
+        [
+          371.11035325365043,
+          428.7034613561585
+        ],
+        [
+          371.11035325365043,
+          438.4467218415258
+        ],
+        [
+          242.90859485693483,
+          438.4467218415258
+        ]
+      ]
+    },
+    {
+      "title": "4.3. Temporal trend in species NDVI and phenology",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          304.38546145652947,
+          693.270457612669
+        ],
+        [
+          484.24307501316076,
+          693.270457612669
+        ],
+        [
+          484.24307501316076,
+          703.0137180980362
+        ],
+        [
+          304.38546145652947,
+          703.0137180980362
+        ]
+      ]
+    },
+    {
+      "title": "5. Discussion",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          35.75143951177597,
+          587.5935554252243
+        ],
+        [
+          89.9661462433092,
+          587.5935554252243
+        ],
+        [
+          89.9661462433092,
+          596.4383895099163
+        ],
+        [
+          35.75143951177597,
+          596.4383895099163
+        ]
+      ]
+    },
+    {
+      "title": "5.1. Characterization of the phenological cycle and its metrics for Mediterranean forest species",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          35.98645849732368,
+          608.5790395475537
+        ],
+        [
+          260.9018241055967,
+          608.5790395475537
+        ],
+        [
+          260.9018241055967,
+          628.9925316274166
+        ],
+        [
+          35.98645849732368,
+          628.9925316274166
+        ]
+      ]
+    },
+    {
+      "title": "5.1.1. Annual cycle of NDVI and principal phenological metrics",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          35.98645849732368,
+          640.6190109550953
+        ],
+        [
+          254.1543631373485,
+          640.6190109550953
+        ],
+        [
+          254.1543631373485,
+          649.145095795393
+        ],
+        [
+          35.98645849732368,
+          649.145095795393
+        ]
+      ]
+    },
+    {
+      "title": "5.2. Effect of aridity on species phenology",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          304.38546145652947,
+          556.1153292417301
+        ],
+        [
+          450.81693238019943,
+          556.1153292417301
+        ],
+        [
+          450.81693238019943,
+          565.4344446361065
+        ],
+        [
+          304.38546145652947,
+          565.4344446361065
+        ]
+      ]
+    },
+    {
+      "title": "5.2.1. Temporal phenometrics",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          305.13517934189036,
+          577.8502949398571
+        ],
+        [
+          410.8454011777787,
+          577.8502949398571
+        ],
+        [
+          410.8454011777787,
+          587.1372060477734
+        ],
+        [
+          305.13517934189036,
+          587.1372060477734
+        ]
+      ]
+    },
+    {
+      "title": "5.3. Spectral phenometrics",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          35.98645849732368,
+          439.0933692753315
+        ],
+        [
+          128.95147628207653,
+          439.0933692753315
+        ],
+        [
+          128.95147628207653,
+          449.688945478488
+        ],
+        [
+          35.98645849732368,
+          449.688945478488
+        ]
+      ]
+    },
+    {
+      "title": "5.4. Temporal trends of phenology",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          35.98645849732368,
+          661.7922314291749
+        ],
+        [
+          156.6910380404302,
+          661.7922314291749
+        ],
+        [
+          156.6910380404302,
+          670.8478572070599
+        ],
+        [
+          35.98645849732368,
+          670.8478572070599
+        ]
+      ]
+    },
+    {
+      "title": "6. Conclusions",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          304.38546145652947,
+          690.225322753191
+        ],
+        [
+          365.11261017076316,
+          690.225322753191
+        ],
+        [
+          365.11261017076316,
+          699.2663102190488
+        ],
+        [
+          304.38546145652947,
+          699.2663102190488
+        ]
+      ]
+    },
+    {
+      "title": "CRediT authorship contribution statement",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          35.98645849732368,
+          221.0970648602566
+        ],
+        [
+          200.17467539136297,
+          221.0970648602566
+        ],
+        [
+          200.17467539136297,
+          230.2042906880379
+        ],
+        [
+          35.98645849732368,
+          230.2042906880379
+        ]
+      ]
+    },
+    {
+      "title": "Declaration of competing interest",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          35.98645849732368,
+          347.75945117003073
+        ],
+        [
+          166.437370550122,
+          347.75945117003073
+        ],
+        [
+          166.437370550122,
+          355.7702674269676
+        ],
+        [
+          35.98645849732368,
+          355.7702674269676
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          35.98645849732368,
+          408.0894244015217
+        ],
+        [
+          112.4576828041365,
+          408.0894244015217
+        ],
+        [
+          112.4576828041365,
+          418.21071929499385
+        ],
+        [
+          35.98645849732368,
+          418.21071929499385
+        ]
+      ]
+    },
+    {
+      "title": "Appendix A. Supplementary data",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          35.75143951177597,
+          711.9280841648579
+        ],
+        [
+          166.437370550122,
+          711.9280841648579
+        ],
+        [
+          166.437370550122,
+          721.7507574929732
+        ],
+        [
+          35.75143951177597,
+          721.7507574929732
+        ]
+      ]
+    },
+    {
+      "title": "Data availability",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          304.03256690502167,
+          74.02191838622093
+        ],
+        [
+          370.36063536828954,
+          74.02191838622093
+        ],
+        [
+          370.36063536828954,
+          83.19245491352028
+        ],
+        [
+          304.03256690502167,
+          83.19245491352028
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          304.9045532345772,
+          116.91912582440688
+        ],
+        [
+          348.61881669282315,
+          116.91912582440688
+        ],
+        [
+          348.61881669282315,
+          124.41394158238168
+        ],
+        [
+          304.9045532345772,
+          124.41394158238168
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          94
+        ],
+        [
+          "Span",
+          50
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          9
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          138
+        ],
+        [
+          "Span",
+          64
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          103
+        ],
+        [
+          "Span",
+          60
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          56
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          108
+        ],
+        [
+          "Span",
+          108
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          67
+        ],
+        [
+          "Span",
+          19
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          145
+        ],
+        [
+          "Span",
+          70
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          142
+        ],
+        [
+          "Span",
+          40
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          144
+        ],
+        [
+          "Span",
+          105
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          210
+        ],
+        [
+          "Span",
+          108
+        ],
+        [
+          "ListItem",
+          22
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          320
+        ],
+        [
+          "Span",
+          151
+        ],
+        [
+          "ListItem",
+          46
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          88
+        ],
+        [
+          "Span",
+          44
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/herraiz_2025_phen_shifts_mediterranean"
+}

@@ -1,0 +1,1813 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Forest Ecology and Management",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          195.67636807919752,
+          84.87329909205437
+        ],
+        [
+          401.09906866808683,
+          84.87329909205437
+        ],
+        [
+          401.09906866808683,
+          98.18208642946988
+        ],
+        [
+          195.67636807919752,
+          98.18208642946988
+        ]
+      ]
+    },
+    {
+      "title": "Tree species\u2013specific forest canopy cover loss in Germany (2018\u20132024): A national-scale remote sensing assessment",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.98645849732368,
+          166.25865438580513
+        ],
+        [
+          484.31775394314786,
+          166.25865438580513
+        ],
+        [
+          484.31775394314786,
+          196.4875006377697
+        ],
+        [
+          35.98645849732368,
+          196.4875006377697
+        ]
+      ]
+    },
+    {
+      "title": "ARTICLE INFO",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.98645849732368,
+          269.8133672870928
+        ],
+        [
+          116.20627223094105,
+          269.8133672870928
+        ],
+        [
+          116.20627223094105,
+          278.05766462086507
+        ],
+        [
+          35.98645849732368,
+          278.05766462086507
+        ]
+      ]
+    },
+    {
+      "title": "ABSTRACT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          200.17467539136297,
+          269.7343204021454
+        ],
+        [
+          259.8519262075424,
+          269.7343204021454
+        ],
+        [
+          259.8519262075424,
+          278.05766462086507
+        ],
+        [
+          200.17467539136297,
+          278.05766462086507
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.73617638268459,
+          481.91665323777966
+        ],
+        [
+          98.2130429822792,
+          481.91665323777966
+        ],
+        [
+          98.2130429822792,
+          491.024976938963
+        ],
+        [
+          36.73617638268459,
+          491.024976938963
+        ]
+      ]
+    },
+    {
+      "title": "2. Data",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          305.13517934189036,
+          325.2750038961063
+        ],
+        [
+          336.6233305270486,
+          325.2750038961063
+        ],
+        [
+          336.6233305270486,
+          332.02033807828366
+        ],
+        [
+          305.13517934189036,
+          332.02033807828366
+        ]
+      ]
+    },
+    {
+      "title": "2.1. Sentinel-2 time series",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          304.38546145652947,
+          345.69398534297943
+        ],
+        [
+          396.6007613559214,
+          345.69398534297943
+        ],
+        [
+          396.6007613559214,
+          354.50478535220805
+        ],
+        [
+          304.38546145652947,
+          354.50478535220805
+        ]
+      ]
+    },
+    {
+      "title": "2.2. Tree species reference data",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          304.38546145652947,
+          556.1153292417301
+        ],
+        [
+          416.09342637530506,
+          556.1153292417301
+        ],
+        [
+          416.09342637530506,
+          565.4344446361065
+        ],
+        [
+          304.38546145652947,
+          565.4344446361065
+        ]
+      ]
+    },
+    {
+      "title": "2.3. Calculated pure stand NFI Data",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          35.98645849732368,
+          105.67690218744468
+        ],
+        [
+          163.43849900867838,
+          105.67690218744468
+        ],
+        [
+          163.43849900867838,
+          114.71459603309633
+        ],
+        [
+          35.98645849732368,
+          114.71459603309633
+        ]
+      ]
+    },
+    {
+      "title": "2.4. FCCL and forest structure",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          35.98645849732368,
+          471.4239111766149
+        ],
+        [
+          143.1961161039338,
+          471.4239111766149
+        ],
+        [
+          143.1961161039338,
+          481.72379347682005
+        ],
+        [
+          35.98645849732368,
+          481.72379347682005
+        ]
+      ]
+    },
+    {
+      "title": "3. Methods",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          304.9045532345772,
+          74.19867600395052
+        ],
+        [
+          352.3674061196277,
+          74.19867600395052
+        ],
+        [
+          352.3674061196277,
+          82.4429733377228
+        ],
+        [
+          304.9045532345772,
+          82.4429733377228
+        ]
+      ]
+    },
+    {
+      "title": "3.1. Stabilized dominant tree species map for 2016",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          305.13517934189036,
+          305.00130769610405
+        ],
+        [
+          482.0686002870651,
+          305.00130769610405
+        ],
+        [
+          482.0686002870651,
+          314.0327802591441
+        ],
+        [
+          305.13517934189036,
+          314.0327802591441
+        ]
+      ]
+    },
+    {
+      "title": "3.1.1. Annual dominant tree species classifications",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          304.61389112472534,
+          325.15387186408043
+        ],
+        [
+          479.8194466309824,
+          325.15387186408043
+        ],
+        [
+          479.8194466309824,
+          334.2687828056761
+        ],
+        [
+          304.61389112472534,
+          334.2687828056761
+        ]
+      ]
+    },
+    {
+      "title": "3.1.2. Dominant tree species stabilization",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          304.38546145652947,
+          587.5935554252243
+        ],
+        [
+          448.3312954458242,
+          587.5935554252243
+        ],
+        [
+          448.3312954458242,
+          596.587334334794
+        ],
+        [
+          304.38546145652947,
+          596.587334334794
+        ]
+      ]
+    },
+    {
+      "title": "3.2. Integration of stabilized dominant tree species and FCCL",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          35.98645849732368,
+          262.318551529118
+        ],
+        [
+          245.9074663983785,
+          262.318551529118
+        ],
+        [
+          245.9074663983785,
+          270.5628488628903
+        ],
+        [
+          35.98645849732368,
+          270.5628488628903
+        ]
+      ]
+    },
+    {
+      "title": "3.3. Validation",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          35.98645849732368,
+          513.502836972475
+        ],
+        [
+          91.46558201403101,
+          513.502836972475
+        ],
+        [
+          91.46558201403101,
+          522.3886583308436
+        ],
+        [
+          35.98645849732368,
+          522.3886583308436
+        ]
+      ]
+    },
+    {
+      "title": "3.4. Comparison between area shares of NFI pure stands and stabilized dominant tree species map",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          35.98645849732368,
+          661.7922314291749
+        ],
+        [
+          280.7795981168747,
+          661.7922314291749
+        ],
+        [
+          280.7795981168747,
+          682.0867872238159
+        ],
+        [
+          35.98645849732368,
+          682.0867872238159
+        ]
+      ]
+    },
+    {
+      "title": "4. Results",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          303.74190479516983,
+          242.08254898258605
+        ],
+        [
+          347.11938092210136,
+          242.08254898258605
+        ],
+        [
+          347.11938092210136,
+          250.3268463163583
+        ],
+        [
+          303.74190479516983,
+          250.3268463163583
+        ]
+      ]
+    },
+    {
+      "title": "4.1. Stabilized dominant tree species map for 2016",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          304.38546145652947,
+          263.817514680713
+        ],
+        [
+          480.56916451634333,
+          263.817514680713
+        ],
+        [
+          480.56916451634333,
+          272.0618120144852
+        ],
+        [
+          304.38546145652947,
+          272.0618120144852
+        ]
+      ]
+    },
+    {
+      "title": "4.1.1. Validation and presentation",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          304.9045532345772,
+          282.91099697351456
+        ],
+        [
+          425.23866671323776,
+          282.91099697351456
+        ],
+        [
+          425.23866671323776,
+          292.2978145610172
+        ],
+        [
+          304.9045532345772,
+          292.2978145610172
+        ]
+      ]
+    },
+    {
+      "title": "4.1.2. Comparison between area shares of NFI pure stands and stabilized dominant tree species map",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          304.38546145652947,
+          672.2849734903396
+        ],
+        [
+          555.5409530524344,
+          672.2849734903396
+        ],
+        [
+          555.5409530524344,
+          690.6128720641136
+        ],
+        [
+          304.38546145652947,
+          690.6128720641136
+        ]
+      ]
+    },
+    {
+      "title": "4.2. Species-specific FCCL 2018-2024",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          304.9045532345772,
+          53.21319188162108
+        ],
+        [
+          436.3358092800496,
+          53.21319188162108
+        ],
+        [
+          436.3358092800496,
+          61.45748921539336
+        ],
+        [
+          304.9045532345772,
+          61.45748921539336
+        ]
+      ]
+    },
+    {
+      "title": "4.2.1. Absolute and proportional loss: cumulative FCCL across dominant tree species",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          303.451242685318,
+          74.02191838622093
+        ],
+        [
+          554.0415172817125,
+          74.02191838622093
+        ],
+        [
+          554.0415172817125,
+          91.84918668866158
+        ],
+        [
+          303.451242685318,
+          91.84918668866158
+        ]
+      ]
+    },
+    {
+      "title": "4.2.2. Temporal dynamics: interannual and seasonal patterns of species-specific FCCL",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          304.38546145652947,
+          346.4690839648247
+        ],
+        [
+          551.7923636256297,
+          346.4690839648247
+        ],
+        [
+          551.7923636256297,
+          365.74700898917024
+        ],
+        [
+          304.38546145652947,
+          365.74700898917024
+        ]
+      ]
+    },
+    {
+      "title": "4.2.3. Spatial patterns of species-specific FCCL",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          36.73617638268459,
+          643.0551920342378
+        ],
+        [
+          197.92552173528023,
+          643.0551920342378
+        ],
+        [
+          197.92552173528023,
+          652.245490282774
+        ],
+        [
+          36.73617638268459,
+          652.245490282774
+        ]
+      ]
+    },
+    {
+      "title": "5. Discussion",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          35.98645849732368,
+          618.9162495434284
+        ],
+        [
+          90.7158641286701,
+          618.9162495434284
+        ],
+        [
+          90.7158641286701,
+          628.8150420940857
+        ],
+        [
+          35.98645849732368,
+          628.8150420940857
+        ]
+      ]
+    },
+    {
+      "title": "5.1. A stabilized dominant tree species map for 2016",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          35.23674061196277,
+          640.6190109550953
+        ],
+        [
+          218.91762252538572,
+          640.6190109550953
+        ],
+        [
+          218.91762252538572,
+          650.5500077922126
+        ],
+        [
+          35.23674061196277,
+          649.8005262164152
+        ]
+      ]
+    },
+    {
+      "title": "5.1.1. Stabilization framework, uncertainty treatment",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          35.98645849732368,
+          662.3217723667622
+        ],
+        [
+          221.16677618146844,
+          662.3217723667622
+        ],
+        [
+          221.16677618146844,
+          670.8478572070599
+        ],
+        [
+          35.98645849732368,
+          670.8478572070599
+        ]
+      ]
+    },
+    {
+      "title": "(Ballanti et al., 2016; Wegler et al., 2025).",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          35.98645849732368,
+          425.7055350529686
+        ],
+        [
+          188.1791892255884,
+          425.7055350529686
+        ],
+        [
+          188.1791892255884,
+          435.21787616610527
+        ],
+        [
+          35.98645849732368,
+          435.21787616610527
+        ]
+      ]
+    },
+    {
+      "title": "5.1.2. Accuracy improvements and comparison with existing products, and methodological limitations",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          35.23674061196277,
+          447.23190480470663
+        ],
+        [
+          290.1408216346722,
+          447.23190480470663
+        ],
+        [
+          290.1408216346722,
+          466.1775401460325
+        ],
+        [
+          35.23674061196277,
+          466.1775401460325
+        ]
+      ]
+    },
+    {
+      "title": "5.2. Tree species-specific FCCL",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          35.98645849732368,
+          439.0933692753315
+        ],
+        [
+          143.1961161039338,
+          439.0933692753315
+        ],
+        [
+          143.1961161039338,
+          449.688945478488
+        ],
+        [
+          35.98645849732368,
+          449.688945478488
+        ]
+      ]
+    },
+    {
+      "title": "5.2.1. Spruce FCCL dominates in Germany",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          35.98645849732368,
+          587.5935554252243
+        ],
+        [
+          184.43059979878385,
+          587.5935554252243
+        ],
+        [
+          184.43059979878385,
+          596.587334334794
+        ],
+        [
+          35.98645849732368,
+          596.587334334794
+        ]
+      ]
+    },
+    {
+      "title": "5.2.2. Species-specific FCCL pattern in pine, beech and oak dominated forests",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          302.28859424591064,
+          597.3368159105916
+        ],
+        [
+          546.5443384281034,
+          597.3368159105916
+        ],
+        [
+          546.5443384281034,
+          616.823336881326
+        ],
+        [
+          302.28859424591064,
+          616.823336881326
+        ]
+      ]
+    },
+    {
+      "title": "5.2.3. Methodological limitations and uncertainties",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          35.98645849732368,
+          325.2750038961063
+        ],
+        [
+          212.17016155713753,
+          325.2750038961063
+        ],
+        [
+          212.17016155713753,
+          334.2687828056761
+        ],
+        [
+          35.98645849732368,
+          334.2687828056761
+        ]
+      ]
+    },
+    {
+      "title": "5.3. Implications for policy, management and future research",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          304.38546145652947,
+          221.0970648602566
+        ],
+        [
+          515.8059051283061,
+          221.0970648602566
+        ],
+        [
+          515.8059051283061,
+          230.09084376982636
+        ],
+        [
+          304.38546145652947,
+          230.09084376982636
+        ]
+      ]
+    },
+    {
+      "title": "6. Conclusion",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          35.98645849732368,
+          230.97938930988315
+        ],
+        [
+          92.21529989939192,
+          230.97938930988315
+        ],
+        [
+          92.21529989939192,
+          239.8341042551936
+        ],
+        [
+          35.98645849732368,
+          239.8341042551936
+        ]
+      ]
+    },
+    {
+      "title": "Additional information - Funding",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          304.9045532345772,
+          84.69141806511524
+        ],
+        [
+          434.8363735093278,
+          84.69141806511524
+        ],
+        [
+          434.8363735093278,
+          93.685196974685
+        ],
+        [
+          304.9045532345772,
+          93.685196974685
+        ]
+      ]
+    },
+    {
+      "title": "CRediT authorship contribution statement",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          304.38546145652947,
+          200.75054305791855
+        ],
+        [
+          470.0731141212906,
+          200.75054305791855
+        ],
+        [
+          470.0731141212906,
+          209.10535964749693
+        ],
+        [
+          304.38546145652947,
+          209.10535964749693
+        ]
+      ]
+    },
+    {
+      "title": "Disclosure statement",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          304.3232290148735,
+          305.03900134957433
+        ],
+        [
+          386.85442884622955,
+          305.03900134957433
+        ],
+        [
+          386.85442884622955,
+          313.28329868334663
+        ],
+        [
+          304.3232290148735,
+          313.28329868334663
+        ]
+      ]
+    },
+    {
+      "title": "Declaration of Competing Interest",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          304.38546145652947,
+          348.5089327458282
+        ],
+        [
+          437.83524505077145,
+          348.5089327458282
+        ],
+        [
+          437.83524505077145,
+          357.50271165539795
+        ],
+        [
+          304.38546145652947,
+          357.50271165539795
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          304.38546145652947,
+          411.18981888890266
+        ],
+        [
+          380.8566857633423,
+          411.18981888890266
+        ],
+        [
+          380.8566857633423,
+          420.4591640223863
+        ],
+        [
+          304.38546145652947,
+          420.4591640223863
+        ]
+      ]
+    },
+    {
+      "title": "Appendix A. Supporting information",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          305.13517934189036,
+          484.91457954096956
+        ],
+        [
+          448.3312954458242,
+          484.91457954096956
+        ],
+        [
+          448.3312954458242,
+          494.125371426344
+        ],
+        [
+          305.13517934189036,
+          494.125371426344
+        ]
+      ]
+    },
+    {
+      "title": "Data availability",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          304.38546145652947,
+          537.3782898467931
+        ],
+        [
+          371.11035325365043,
+          537.3782898467931
+        ],
+        [
+          371.11035325365043,
+          546.8320777118206
+        ],
+        [
+          304.38546145652947,
+          546.8320777118206
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          304.38546145652947,
+          683.5271971273017
+        ],
+        [
+          348.61881669282315,
+          683.5271971273017
+        ],
+        [
+          348.61881669282315,
+          692.5506186187267
+        ],
+        [
+          304.38546145652947,
+          692.5506186187267
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          88
+        ],
+        [
+          "Span",
+          59
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          42
+        ],
+        [
+          "Span",
+          7
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          144
+        ],
+        [
+          "Span",
+          87
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          136
+        ],
+        [
+          "Span",
+          116
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          71
+        ],
+        [
+          "Span",
+          10
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          119
+        ],
+        [
+          "TableCell",
+          102
+        ],
+        [
+          "Span",
+          52
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          78
+        ],
+        [
+          "TableCell",
+          65
+        ],
+        [
+          "Span",
+          6
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          187
+        ],
+        [
+          "Line",
+          101
+        ],
+        [
+          "Span",
+          89
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          115
+        ],
+        [
+          "Span",
+          71
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          95
+        ],
+        [
+          "Span",
+          10
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          127
+        ],
+        [
+          "Span",
+          52
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          39
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          186
+        ],
+        [
+          "Line",
+          113
+        ],
+        [
+          "Span",
+          49
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          142
+        ],
+        [
+          "Span",
+          48
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          144
+        ],
+        [
+          "Span",
+          105
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          9
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          313
+        ],
+        [
+          "Span",
+          148
+        ],
+        [
+          "ListItem",
+          51
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          206
+        ],
+        [
+          "Span",
+          89
+        ],
+        [
+          "ListItem",
+          37
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/wegler_2026_canopy_cover_loss"
+}

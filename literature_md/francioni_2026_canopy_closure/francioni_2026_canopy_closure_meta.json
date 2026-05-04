@@ -1,0 +1,819 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Canopy closure and intensifying climate extremes drive understory species loss over 25 years of forest monitoring",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          38.98533003876732,
+          113.14635169506073
+        ],
+        [
+          542.0460311159379,
+          113.14635169506073
+        ],
+        [
+          542.0460311159379,
+          194.24100649356842
+        ],
+        [
+          38.98533003876732,
+          194.24100649356842
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.38546145652947,
+          700.1171864271164
+        ],
+        [
+          342.6210736099359,
+          700.1171864271164
+        ],
+        [
+          342.6210736099359,
+          708.6128169298172
+        ],
+        [
+          304.38546145652947,
+          708.6128169298172
+        ]
+      ]
+    },
+    {
+      "title": "Trends in understory species richness and their environmental drivers",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          38.23561215340641,
+          519.3919557332993
+        ],
+        [
+          291.640257405394,
+          519.3919557332993
+        ],
+        [
+          291.640257405394,
+          537.4890030268809
+        ],
+        [
+          38.23561215340641,
+          538.2386390143661
+        ]
+      ]
+    },
+    {
+      "title": "Temporal beta diversity",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          305.13517934189036,
+          604.3482607603073
+        ],
+        [
+          401.4043737053871,
+          604.3482607603073
+        ],
+        [
+          401.4043737053871,
+          613.202237762885
+        ],
+        [
+          305.13517934189036,
+          613.202237762885
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          38.98533003876732,
+          46.339802742004395
+        ],
+        [
+          92.21529989939192,
+          46.339802742004395
+        ],
+        [
+          92.21529989939192,
+          55.47306307390403
+        ],
+        [
+          38.98533003876732,
+          55.47306307390403
+        ]
+      ]
+    },
+    {
+      "title": "Methods",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          38.94872272014618,
+          625.9460495501332
+        ],
+        [
+          82.4689673897001,
+          625.9460495501332
+        ],
+        [
+          82.4689673897001,
+          634.4691325426102
+        ],
+        [
+          38.94872272014618,
+          634.4691325426102
+        ]
+      ]
+    },
+    {
+      "title": "Study Area and Vegetation Sampling",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          38.23561215340641,
+          637.1905893624112
+        ],
+        [
+          186.67975345486659,
+          637.1905893624112
+        ],
+        [
+          186.67975345486659,
+          646.8264132738113
+        ],
+        [
+          38.23561215340641,
+          646.8264132738113
+        ]
+      ]
+    },
+    {
+      "title": "Explanatory variables",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          305.13517934189036,
+          571.9722584511997
+        ],
+        [
+          392.8521719291168,
+          571.9722584511997
+        ],
+        [
+          392.8521719291168,
+          581.9506894350052
+        ],
+        [
+          305.13517934189036,
+          581.9506894350052
+        ]
+      ]
+    },
+    {
+      "title": "Data analysis",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          304.38546145652947,
+          207.37061727046967
+        ],
+        [
+          360.6143028585977,
+          207.37061727046967
+        ],
+        [
+          360.6143028585977,
+          217.39443637070497
+        ],
+        [
+          304.38546145652947,
+          217.39443637070497
+        ]
+      ]
+    },
+    {
+      "title": "Data availability",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          304.03256690502167,
+          217.79707288742065
+        ],
+        [
+          380.8566857633423,
+          217.79707288742065
+        ],
+        [
+          380.8566857633423,
+          227.88934019549762
+        ],
+        [
+          304.03256690502167,
+          227.88934019549762
+        ]
+      ]
+    },
+    {
+      "title": "Code availability",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          304.38546145652947,
+          271.8601760864258
+        ],
+        [
+          383.8555573047859,
+          271.8601760864258
+        ],
+        [
+          383.8555573047859,
+          281.12813663482666
+        ],
+        [
+          304.38546145652947,
+          281.12813663482666
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          304.38546145652947,
+          346.7761905193329
+        ],
+        [
+          360.6143028585977,
+          346.7761905193329
+        ],
+        [
+          360.6143028585977,
+          355.3274580679799
+        ],
+        [
+          304.38546145652947,
+          355.3274580679799
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          304.3232290148735,
+          78.0053346157074
+        ],
+        [
+          401.09906866808683,
+          78.0053346157074
+        ],
+        [
+          401.09906866808683,
+          87.70741053576718
+        ],
+        [
+          304.3232290148735,
+          87.70741053576718
+        ]
+      ]
+    },
+    {
+      "title": "Author contributions",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          304.38546145652947,
+          207.7567822933197
+        ],
+        [
+          404.09794020953046,
+          207.7567822933197
+        ],
+        [
+          404.09794020953046,
+          216.64480038321977
+        ],
+        [
+          304.38546145652947,
+          216.64480038321977
+        ]
+      ]
+    },
+    {
+      "title": "Competing interests",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          304.38546145652947,
+          304.29803800582886
+        ],
+        [
+          402.5985044388087,
+          304.29803800582886
+        ],
+        [
+          402.5985044388087,
+          313.56599855422974
+        ],
+        [
+          304.38546145652947,
+          313.56599855422974
+        ]
+      ]
+    },
+    {
+      "title": "Additional information",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          304.38546145652947,
+          335.96356987953186
+        ],
+        [
+          411.5951190631396,
+          335.96356987953186
+        ],
+        [
+          411.5951190631396,
+          344.8325542431872
+        ],
+        [
+          304.38546145652947,
+          344.8325542431872
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          64
+        ],
+        [
+          "Span",
+          27
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          141
+        ],
+        [
+          "Span",
+          109
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          91
+        ],
+        [
+          "TableCell",
+          82
+        ],
+        [
+          "Span",
+          50
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          149
+        ],
+        [
+          "Span",
+          41
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          115
+        ],
+        [
+          "Span",
+          31
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          115
+        ],
+        [
+          "TableCell",
+          72
+        ],
+        [
+          "Span",
+          65
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          171
+        ],
+        [
+          "Span",
+          110
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "Equation",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          259
+        ],
+        [
+          "Span",
+          187
+        ],
+        [
+          "ListItem",
+          43
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          263
+        ],
+        [
+          "Span",
+          164
+        ],
+        [
+          "ListItem",
+          40
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          177
+        ],
+        [
+          "Span",
+          78
+        ],
+        [
+          "ListItem",
+          21
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/francioni_2026_canopy_closure"
+}

@@ -1,0 +1,1539 @@
+{
+  "table_of_contents": [
+    {
+      "title": "OPEN ACCESS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.668586015701294,
+          165.6791569343764
+        ],
+        [
+          98.2130429822792,
+          165.6791569343764
+        ],
+        [
+          98.2130429822792,
+          174.6753102520801
+        ],
+        [
+          47.668586015701294,
+          174.6753102520801
+        ]
+      ]
+    },
+    {
+      "title": "CITATION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.668586015701294,
+          349.0061632990837
+        ],
+        [
+          74.40950012207031,
+          349.0061632990837
+        ],
+        [
+          74.40950012207031,
+          354.7612708210945
+        ],
+        [
+          47.668586015701294,
+          354.7612708210945
+        ]
+      ]
+    },
+    {
+      "title": "COPYRIGHT\n\u00a9 2023 Vogeler, Fekety, Elliott, Swayze,",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.668586015701294,
+          432.8663014769554
+        ],
+        [
+          176.93342094517476,
+          432.8663014769554
+        ],
+        [
+          176.93342094517476,
+          449.8076658851848
+        ],
+        [
+          47.668586015701294,
+          449.8076658851848
+        ]
+      ]
+    },
+    {
+      "title": "Evaluating GEDI data fusions for continuous characterizations of forest wildlife habitat",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          218.1679046400248,
+          131.19390254984557
+        ],
+        [
+          534.8182821273804,
+          131.19390254984557
+        ],
+        [
+          534.8182821273804,
+          197.31797218322754
+        ],
+        [
+          218.1679046400248,
+          197.31797218322754
+        ]
+      ]
+    },
+    {
+      "title": "1 Introduction",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          48.540572345256805,
+          77.28287243843079
+        ],
+        [
+          138.69780879176835,
+          77.28287243843079
+        ],
+        [
+          138.69780879176835,
+          87.71249484761104
+        ],
+        [
+          48.540572345256805,
+          87.71249484761104
+        ]
+      ]
+    },
+    {
+      "title": "2 Materials and methods",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          48.73166254845915,
+          77.28287243843079
+        ],
+        [
+          204.67298270352842,
+          77.28287243843079
+        ],
+        [
+          204.67298270352842,
+          88.46217429075301
+        ],
+        [
+          48.73166254845915,
+          88.46217429075301
+        ]
+      ]
+    },
+    {
+      "title": "2.1 Study area",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          48.73166254845915,
+          103.1808562874794
+        ],
+        [
+          128.2017583967156,
+          103.1808562874794
+        ],
+        [
+          128.2017583967156,
+          113.86891311407089
+        ],
+        [
+          48.73166254845915,
+          113.86891311407089
+        ]
+      ]
+    },
+    {
+      "title": "2.2 Remote sensing model data",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          48.73166254845915,
+          316.94199281930923
+        ],
+        [
+          224.915365608273,
+          316.94199281930923
+        ],
+        [
+          224.915365608273,
+          328.3595960961849
+        ],
+        [
+          48.73166254845915,
+          328.3595960961849
+        ]
+      ]
+    },
+    {
+      "title": "2.2.1 GEDI data",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          48.540572345256805,
+          342.60350551588243
+        ],
+        [
+          124.45316896991106,
+          342.60350551588243
+        ],
+        [
+          124.45316896991106,
+          351.5996588335861
+        ],
+        [
+          48.540572345256805,
+          351.5996588335861
+        ]
+      ]
+    },
+    {
+      "title": "2.2.2 Continuous remote sensing predictors",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          302.8699184656143,
+          390.11407417058945
+        ],
+        [
+          518.0550587843888,
+          390.11407417058945
+        ],
+        [
+          518.0550587843888,
+          399.5791431946725
+        ],
+        [
+          302.8699184656143,
+          399.5791431946725
+        ]
+      ]
+    },
+    {
+      "title": "2.3 GEDI-fusion modeling and mapping",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          48.73166254845915,
+          652.9707949766599
+        ],
+        [
+          269.8984387299276,
+          652.9707949766599
+        ],
+        [
+          269.8984387299276,
+          663.4663071806476
+        ],
+        [
+          48.73166254845915,
+          663.4663071806476
+        ]
+      ]
+    },
+    {
+      "title": "2.4 Validation assessments",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          302.8699184656143,
+          495.35032600164413
+        ],
+        [
+          452.8296027579896,
+          495.35032600164413
+        ],
+        [
+          452.8296027579896,
+          506.78330356397487
+        ],
+        [
+          302.8699184656143,
+          506.78330356397487
+        ]
+      ]
+    },
+    {
+      "title": "2.4.1 GEDI Footprint-ALS comparisons",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          301.70727002620697,
+          521.6593889594078
+        ],
+        [
+          491.814932796757,
+          521.6593889594078
+        ],
+        [
+          491.814932796757,
+          532.272404630802
+        ],
+        [
+          301.70727002620697,
+          532.272404630802
+        ]
+      ]
+    },
+    {
+      "title": "2.4.2 Structure map validations",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          302.8860256858076,
+          606.4906695018575
+        ],
+        [
+          455.82847429943325,
+          606.4906695018575
+        ],
+        [
+          455.82847429943325,
+          616.207583963871
+        ],
+        [
+          302.8860256858076,
+          616.207583963871
+        ]
+      ]
+    },
+    {
+      "title": "2.5 Case study: wildlife habitat modeling",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          47.668586015701294,
+          305.02069866657257
+        ],
+        [
+          275.89618181281486,
+          305.02069866657257
+        ],
+        [
+          275.89618181281486,
+          317.11440444905526
+        ],
+        [
+          47.668586015701294,
+          317.11440444905526
+        ]
+      ]
+    },
+    {
+      "title": "3 Results",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          302.8860256858076,
+          281.1297911782405
+        ],
+        [
+          361.36402074395863,
+          281.1297911782405
+        ],
+        [
+          361.36402074395863,
+          291.62530338222814
+        ],
+        [
+          302.8860256858076,
+          291.62530338222814
+        ]
+      ]
+    },
+    {
+      "title": "3.1 GEDI-fusion model assessments",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          303.451242685318,
+          425.0682442614996
+        ],
+        [
+          503.8104189625315,
+          425.0682442614996
+        ],
+        [
+          503.8104189625315,
+          435.5637564654873
+        ],
+        [
+          303.451242685318,
+          435.5637564654873
+        ]
+      ]
+    },
+    {
+      "title": "3.2 Validation assessments",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          302.8860256858076,
+          663.0706023573875
+        ],
+        [
+          452.8296027579896,
+          663.0706023573875
+        ],
+        [
+          452.8296027579896,
+          673.9618193846352
+        ],
+        [
+          302.8860256858076,
+          673.9618193846352
+        ]
+      ]
+    },
+    {
+      "title": "3.2.1 GEDI footprint- ALS comparisons",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          302.8699184656143,
+          688.9554082474747
+        ],
+        [
+          492.5646506821179,
+          688.9554082474747
+        ],
+        [
+          492.5646506821179,
+          699.4509204514624
+        ],
+        [
+          302.8699184656143,
+          699.4509204514624
+        ]
+      ]
+    },
+    {
+      "title": "3.2.2 Structure map validations",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          48.73166254845915,
+          402.5778609672404
+        ],
+        [
+          200.17467539136297,
+          402.5778609672404
+        ],
+        [
+          200.17467539136297,
+          412.3236937280861
+        ],
+        [
+          48.73166254845915,
+          412.3236937280861
+        ]
+      ]
+    },
+    {
+      "title": "3.3 Case study: wildlife habitat modeling",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          302.8860256858076,
+          341.1956602334976
+        ],
+        [
+          530.8002628355242,
+          341.1956602334976
+        ],
+        [
+          530.8002628355242,
+          353.09901771987006
+        ],
+        [
+          302.8860256858076,
+          353.09901771987006
+        ]
+      ]
+    },
+    {
+      "title": "4 Discussion",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          302.8699184656143,
+          472.29804917944404
+        ],
+        [
+          383.105839419425,
+          472.29804917944404
+        ],
+        [
+          383.105839419425,
+          482.79356138343167
+        ],
+        [
+          302.8699184656143,
+          482.79356138343167
+        ]
+      ]
+    },
+    {
+      "title": "5 Conclusion",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          48.73166254845915,
+          602.7422722861476
+        ],
+        [
+          131.95034782352016,
+          602.7422722861476
+        ],
+        [
+          131.95034782352016,
+          613.2377844901353
+        ],
+        [
+          48.73166254845915,
+          613.2377844901353
+        ]
+      ]
+    },
+    {
+      "title": "Data availability statement",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          303.451242685318,
+          293.0994045138359
+        ],
+        [
+          468.57367835056874,
+          293.0994045138359
+        ],
+        [
+          468.57367835056874,
+          305.4317777752876
+        ],
+        [
+          303.451242685318,
+          305.4317777752876
+        ]
+      ]
+    },
+    {
+      "title": "Author contributions",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          302.28859424591064,
+          399.9799727797508
+        ],
+        [
+          434.8363735093278,
+          399.9799727797508
+        ],
+        [
+          434.8363735093278,
+          410.8243348418021
+        ],
+        [
+          302.28859424591064,
+          410.8243348418021
+        ]
+      ]
+    },
+    {
+      "title": "Funding",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          302.8699184656143,
+          591.497080639018
+        ],
+        [
+          354.6165597757104,
+          591.497080639018
+        ],
+        [
+          354.6165597757104,
+          604.6973689198494
+        ],
+        [
+          302.8699184656143,
+          604.6973689198494
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgments",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          302.5792563557625,
+          673.347580075264
+        ],
+        [
+          420.5917336874705,
+          673.347580075264
+        ],
+        [
+          420.5917336874705,
+          688.146427989006
+        ],
+        [
+          302.5792563557625,
+          688.146427989006
+        ]
+      ]
+    },
+    {
+      "title": "Conflict of interest",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          48.73166254845915,
+          76.46730320048141
+        ],
+        [
+          167.93680632084383,
+          76.46730320048141
+        ],
+        [
+          167.93680632084383,
+          87.71249484761104
+        ],
+        [
+          48.73166254845915,
+          87.71249484761104
+        ]
+      ]
+    },
+    {
+      "title": "Publisher's note",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          48.73166254845915,
+          163.19840615987778
+        ],
+        [
+          149.1938591868211,
+          163.19840615987778
+        ],
+        [
+          149.1938591868211,
+          174.6753102520801
+        ],
+        [
+          48.73166254845915,
+          174.6753102520801
+        ]
+      ]
+    },
+    {
+      "title": "Supplementary material",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          303.6357435711686,
+          122.5015743970871
+        ],
+        [
+          452.85156714916235,
+          122.5015743970871
+        ],
+        [
+          452.85156714916235,
+          135.65610587596893
+        ],
+        [
+          303.6357435711686,
+          135.65610587596893
+        ]
+      ]
+    },
+    {
+      "title": "SUPPLEMENTARY TABLE S1",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          303.451242685318,
+          191.16825800120353
+        ],
+        [
+          395.85104347056046,
+          191.16825800120353
+        ],
+        [
+          395.85104347056046,
+          199.41473187576526
+        ],
+        [
+          303.451242685318,
+          199.41473187576526
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          48.73166254845915,
+          259.3909175992012
+        ],
+        [
+          119.20514377238469,
+          259.3909175992012
+        ],
+        [
+          119.20514377238469,
+          270.6342789742528
+        ],
+        [
+          48.73166254845915,
+          270.6342789742528
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          122
+        ],
+        [
+          "Span",
+          74
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          124
+        ],
+        [
+          "Span",
+          103
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          62
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          124
+        ],
+        [
+          "Span",
+          78
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          132
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          123
+        ],
+        [
+          "Span",
+          77
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          126
+        ],
+        [
+          "Line",
+          89
+        ],
+        [
+          "Span",
+          67
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          120
+        ],
+        [
+          "Span",
+          74
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          268
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Span",
+          15
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          33
+        ],
+        [
+          "Span",
+          11
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          92
+        ],
+        [
+          "Line",
+          88
+        ],
+        [
+          "Span",
+          58
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          60
+        ],
+        [
+          "TableCell",
+          41
+        ],
+        [
+          "Span",
+          6
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          113
+        ],
+        [
+          "TableCell",
+          44
+        ],
+        [
+          "Span",
+          11
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          139
+        ],
+        [
+          "Span",
+          51
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          143
+        ],
+        [
+          "Span",
+          23
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          125
+        ],
+        [
+          "Span",
+          107
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          117
+        ],
+        [
+          "Span",
+          61
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          175
+        ],
+        [
+          "Span",
+          108
+        ],
+        [
+          "Text",
+          38
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          189
+        ],
+        [
+          "Span",
+          136
+        ],
+        [
+          "ListItem",
+          50
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          64
+        ],
+        [
+          "Span",
+          47
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/vogeler_2023_gedi_forest_wildlife"
+}

@@ -1,0 +1,1609 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Comparison of Remote Sensing Time-Series\nSmoothing Methods for Grassland Spring Phenology\nExtraction on the Qinghai-Tibetan Plateau",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          74.971788536091,
+          113.95127535758014
+        ],
+        [
+          514.3064693575842,
+          113.95127535758014
+        ],
+        [
+          514.3064693575842,
+          170.18675100803375
+        ],
+        [
+          74.971788536091,
+          170.18675100803375
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          74.971788536091,
+          89.96153317703696
+        ],
+        [
+          146.19498764537744,
+          89.96153317703696
+        ],
+        [
+          146.19498764537744,
+          98.95768649474066
+        ],
+        [
+          74.971788536091,
+          98.95768649474066
+        ]
+      ]
+    },
+    {
+      "title": "2. Study Area and Data",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          74.22207065073009,
+          166.8981181383133
+        ],
+        [
+          182.93116402806203,
+          166.8981181383133
+        ],
+        [
+          182.93116402806203,
+          176.92434858150602
+        ],
+        [
+          74.22207065073009,
+          176.92434858150602
+        ]
+      ]
+    },
+    {
+      "title": "2.1. Study Area",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          74.971788536091,
+          190.41857855806157
+        ],
+        [
+          141.26178538799286,
+          190.41857855806157
+        ],
+        [
+          141.26178538799286,
+          200.19552594423294
+        ],
+        [
+          74.971788536091,
+          200.19552594423294
+        ]
+      ]
+    },
+    {
+      "title": "2.2. Ground Observation Data",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          74.971788536091,
+          89.96153317703696
+        ],
+        [
+          200.9243932767239,
+          89.96153317703696
+        ],
+        [
+          200.9243932767239,
+          98.95768649474066
+        ],
+        [
+          74.971788536091,
+          98.95768649474066
+        ]
+      ]
+    },
+    {
+      "title": "2.3. Remote Sensing Data and Processing",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          74.971788536091,
+          241.39678069171583
+        ],
+        [
+          245.9074663983785,
+          241.39678069171583
+        ],
+        [
+          245.9074663983785,
+          251.5804145336151
+        ],
+        [
+          74.971788536091,
+          251.5804145336151
+        ]
+      ]
+    },
+    {
+      "title": "3. Methodology",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          74.22207065073009,
+          500.0361885756971
+        ],
+        [
+          149.1938591868211,
+          500.0361885756971
+        ],
+        [
+          149.1938591868211,
+          510.9713321328163
+        ],
+        [
+          74.22207065073009,
+          510.9713321328163
+        ]
+      ]
+    },
+    {
+      "title": "3.1. The Time-Series Smoothing Methods",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          74.22207065073009,
+          521.6593889594078
+        ],
+        [
+          243.65831274229575,
+          521.6593889594078
+        ],
+        [
+          243.65831274229575,
+          532.272404630802
+        ],
+        [
+          74.22207065073009,
+          532.272404630802
+        ]
+      ]
+    },
+    {
+      "title": "3.2. The Phenology Extraction Methods",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          74.971788536091,
+          659.7179099649377
+        ],
+        [
+          237.66056965940848,
+          659.7179099649377
+        ],
+        [
+          237.66056965940848,
+          669.4637427257834
+        ],
+        [
+          74.971788536091,
+          669.4637427257834
+        ]
+      ]
+    },
+    {
+      "title": "3.2.1. Dynamic Threshold Method",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          74.971788536091,
+          89.96153317703696
+        ],
+        [
+          227.16451926435573,
+          89.96153317703696
+        ],
+        [
+          227.16451926435573,
+          99.70736593788263
+        ],
+        [
+          74.971788536091,
+          99.70736593788263
+        ]
+      ]
+    },
+    {
+      "title": "3.2.2. Double-Logistic Method",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          74.971788536091,
+          283.3788295076664
+        ],
+        [
+          210.67072578641572,
+          283.3788295076664
+        ],
+        [
+          210.67072578641572,
+          294.3326418399811
+        ],
+        [
+          74.971788536091,
+          294.3326418399811
+        ]
+      ]
+    },
+    {
+      "title": "3.3. The Evaluation of the Phenology Extraction Accuracy",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          74.22207065073009,
+          488.7730602622032
+        ],
+        [
+          311.8826403101386,
+          488.7730602622032
+        ],
+        [
+          311.8826403101386,
+          500.0361885756971
+        ],
+        [
+          74.22207065073009,
+          500.0361885756971
+        ]
+      ]
+    },
+    {
+      "title": "3.4. Sensitivity Analysis of the Smoothing Parameters",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          74.971788536091,
+          709.111462533474
+        ],
+        [
+          296.13856471755946,
+          709.111462533474
+        ],
+        [
+          296.13856471755946,
+          719.6922654162956
+        ],
+        [
+          74.971788536091,
+          719.6922654162956
+        ]
+      ]
+    },
+    {
+      "title": "3.5. Statistical Significance Test of the Results",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          74.971788536091,
+          261.63812565654916
+        ],
+        [
+          263.1509777616794,
+          261.63812565654916
+        ],
+        [
+          263.1509777616794,
+          272.1336378605368
+        ],
+        [
+          74.971788536091,
+          272.1336378605368
+        ]
+      ]
+    },
+    {
+      "title": "4. Results",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          74.40950012207031,
+          358.049903690815
+        ],
+        [
+          121.45429742846741,
+          358.049903690815
+        ],
+        [
+          121.45429742846741,
+          367.34292713956756
+        ],
+        [
+          74.40950012207031,
+          367.34292713956756
+        ]
+      ]
+    },
+    {
+      "title": "4.1. Performance of the Time-Series Smoothing Results",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          74.971788536091,
+          381.48141288757324
+        ],
+        [
+          299.1374362590031,
+          381.48141288757324
+        ],
+        [
+          299.1374362590031,
+          392.08234876325275
+        ],
+        [
+          74.971788536091,
+          392.08234876325275
+        ]
+      ]
+    },
+    {
+      "title": "4.2. Inter-Comparison of SOS Extraction Using Different Smoothing Methods",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          74.971788536091,
+          384.585554331833
+        ],
+        [
+          392.8521719291168,
+          384.585554331833
+        ],
+        [
+          392.8521719291168,
+          395.08106653582064
+        ],
+        [
+          74.971788536091,
+          395.08106653582064
+        ]
+      ]
+    },
+    {
+      "title": "4.3. Parameter Sensitivity of Different Smoothing Methods",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          74.971788536091,
+          395.04702347517014
+        ],
+        [
+          315.6312297369431,
+          395.04702347517014
+        ],
+        [
+          315.6312297369431,
+          404.82689929666634
+        ],
+        [
+          74.971788536091,
+          404.82689929666634
+        ]
+      ]
+    },
+    {
+      "title": "5. Discussion",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          74.971788536091,
+          89.96153317703696
+        ],
+        [
+          138.69780879176835,
+          89.96153317703696
+        ],
+        [
+          138.69780879176835,
+          98.95768649474066
+        ],
+        [
+          74.971788536091,
+          98.95768649474066
+        ]
+      ]
+    },
+    {
+      "title": "5.1. The Impact of the Choice of Smoothing Methods on the Accuracy of SOS Extraction",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          74.971788536091,
+          112.4519164712962
+        ],
+        [
+          431.8375019678842,
+          112.4519164712962
+        ],
+        [
+          431.8375019678842,
+          122.5015743970871
+        ],
+        [
+          74.971788536091,
+          122.5015743970871
+        ]
+      ]
+    },
+    {
+      "title": "5.2. The Impact of Smoothing Method Parameters on the Accuracy of SOS Extraction",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          74.40950012207031,
+          449.0579864420428
+        ],
+        [
+          422.0911694581923,
+          449.0579864420428
+        ],
+        [
+          422.0911694581923,
+          458.80381920288846
+        ],
+        [
+          74.40950012207031,
+          458.80381920288846
+        ]
+      ]
+    },
+    {
+      "title": "5.3. The Impacting Factors on SOS Extraction Accuracies for Phenology Extraction Methods",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          74.971788536091,
+          274.6008446216583
+        ],
+        [
+          452.2702429294587,
+          274.6008446216583
+        ],
+        [
+          452.2702429294587,
+          284.8781883939504
+        ],
+        [
+          74.971788536091,
+          284.8781883939504
+        ]
+      ]
+    },
+    {
+      "title": "5.4. Applicability of Different Smoothing Methods",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          74.971788536091,
+          482.1957945227623
+        ],
+        [
+          279.64477123961944,
+          482.1957945227623
+        ],
+        [
+          279.64477123961944,
+          492.53939414427737
+        ],
+        [
+          74.971788536091,
+          492.53939414427737
+        ]
+      ]
+    },
+    {
+      "title": "6. Conclusions",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          74.70016223192215,
+          725.5546268820763
+        ],
+        [
+          144.69555187465562,
+          725.5546268820763
+        ],
+        [
+          144.69555187465562,
+          736.1852131654191
+        ],
+        [
+          74.70016223192215,
+          736.1852131654191
+        ]
+      ]
+    },
+    {
+      "title": "Appendix A",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          74.971788536091,
+          436.1549343466759
+        ],
+        [
+          132.70006570888106,
+          436.1549343466759
+        ],
+        [
+          132.70006570888106,
+          446.8089481126169
+        ],
+        [
+          74.971788536091,
+          446.8089481126169
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          74.971788536091,
+          89.96153317703696
+        ],
+        [
+          126.70232262599379,
+          89.96153317703696
+        ],
+        [
+          126.70232262599379,
+          98.95768649474066
+        ],
+        [
+          74.971788536091,
+          98.95768649474066
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          58
+        ],
+        [
+          "Span",
+          44
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          56
+        ],
+        [
+          "Span",
+          45
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          57
+        ],
+        [
+          "Span",
+          21
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          58
+        ],
+        [
+          "Span",
+          35
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          125
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Span",
+          3
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          56
+        ],
+        [
+          "Span",
+          49
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Equation",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          57
+        ],
+        [
+          "Span",
+          9
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          77
+        ],
+        [
+          "Span",
+          13
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          127
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "Span",
+          11
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          69
+        ],
+        [
+          "Span",
+          63
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          56
+        ],
+        [
+          "Span",
+          44
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          107
+        ],
+        [
+          "Span",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          44
+        ],
+        [
+          "Span",
+          34
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          70
+        ],
+        [
+          "Span",
+          34
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          82
+        ],
+        [
+          "Span",
+          4
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          55
+        ],
+        [
+          "Span",
+          25
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          91
+        ],
+        [
+          "Span",
+          59
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          61
+        ],
+        [
+          "Span",
+          55
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          108
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "Span",
+          23
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          135
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Span",
+          28
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          28
+        ],
+        [
+          "Span",
+          7
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          28
+        ],
+        [
+          "Span",
+          7
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          120
+        ],
+        [
+          "Line",
+          78
+        ],
+        [
+          "ListItem",
+          19
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          77
+        ],
+        [
+          "ListItem",
+          19
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          120
+        ],
+        [
+          "Line",
+          77
+        ],
+        [
+          "ListItem",
+          20
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/li_2020_smoothing"
+}
